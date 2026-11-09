@@ -925,3 +925,186 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.09-15.22.24:863][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/WorldGridMaterial because of a recursive sync load
 [2026.11.09-15.22.24:863][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
 [2026.11.09-15.22.24:940][  0]LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: d0a4a1f5648bc010d6ca9866a391917f65440890), compiling. Is special engine material.
+[2026.11.09-15.22.36:139][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.11.09-15.22.36:139][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2026.11.09-15.22.36:139][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.11.09-15.22.36:139][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2026.11.09-15.22.36:139][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2026.11.09-15.22.36:479][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Drop_Item_From_ContentBrowser...
+[2026.11.09-15.22.36:483][  0]LogAudioDerivedData: Display: Drop_Item_From_ContentBrowser compressed to 7.28% (from 192KB to 14KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.11.09-15.22.36:484][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.Drop_Item_From_ContentBrowser: Duration=1.02 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=14355 bytes, ChunkN=0)
+[2026.11.09-15.22.36:485][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Gizmo_Handle_Clicked...
+[2026.11.09-15.22.36:489][  0]LogAudioDerivedData: Display: Gizmo_Handle_Clicked compressed to 6.69% (from 190KB to 12KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.11.09-15.22.36:489][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Gizmo_Handle_Clicked.Gizmo_Handle_Clicked: Duration=1.01 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=13051 bytes, ChunkN=0)
+[2026.11.09-15.22.36:490][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Object_PickUp...
+[2026.11.09-15.22.36:492][  0]LogAudioDerivedData: Display: Object_PickUp compressed to 8.12% (from 160KB to 13KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.11.09-15.22.36:493][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Object_PickUp.Object_PickUp: Duration=0.85 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=13299 bytes, ChunkN=0)
+[2026.11.09-15.22.36:494][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Object_Snaps_To_Another_Actor...
+[2026.11.09-15.22.36:497][  0]LogAudioDerivedData: Display: Object_Snaps_To_Another_Actor compressed to 6.88% (from 201KB to 13KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.11.09-15.22.36:497][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.Object_Snaps_To_Another_Actor: Duration=1.07 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=14169 bytes, ChunkN=0)
+[2026.11.09-15.22.36:498][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Object_Snaps_To_Grid...
+[2026.11.09-15.22.36:501][  0]LogAudioDerivedData: Display: Object_Snaps_To_Grid compressed to 5.50% (from 215KB to 11KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.11.09-15.22.36:501][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Object_Snaps_To_Grid.Object_Snaps_To_Grid: Duration=1.15 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=12121 bytes, ChunkN=0)
+[2026.11.09-15.22.36:502][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Scaling_Down...
+[2026.11.09-15.22.36:505][  0]LogAudioDerivedData: Display: Scaling_Down compressed to 5.72% (from 177KB to 10KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.11.09-15.22.36:505][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Scaling_Down.Scaling_Down: Duration=0.94 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=10363 bytes, ChunkN=0)
+[2026.11.09-15.22.36:506][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Scaling_Up...
+[2026.11.09-15.22.36:509][  0]LogAudioDerivedData: Display: Scaling_Up compressed to 6.05% (from 162KB to 9KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.11.09-15.22.36:509][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Scaling_Up.Scaling_Up: Duration=0.87 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=10083 bytes, ChunkN=0)
+[2026.11.09-15.22.36:509][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Selection_Changes...
+[2026.11.09-15.22.36:513][  0]LogAudioDerivedData: Display: Selection_Changes compressed to 3.10% (from 190KB to 5KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.11.09-15.22.36:513][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Selection_Changes.Selection_Changes: Duration=1.01 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=6043 bytes, ChunkN=0)
+[2026.11.09-15.22.36:555][  0]LogConfig: Applying CVar settings from Section [/Script/CQTest.CQTestSettings] File [Engine]
+[2026.11.09-15.22.36:582][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2026.11.09-15.22.36:582][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2026.11.09-15.22.36:582][  0]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: NetActorFactory name: NetActorFactory id: 0
+[2026.11.09-15.22.36:583][  0]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: NetSubObjectFactory name: NetSubObjectFactory id: 1
+[2026.11.09-15.22.36:587][  0]LogLiveCoding: Display: Starting LiveCoding
+[2026.11.09-15.22.36:587][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2026.11.09-15.22.36:588][  0]LogLiveCoding: Display: First instance in process group "UE_DogCounselor_0xa3a22ee3", spawning console
+[2026.11.09-15.22.36:592][  0]LogLiveCoding: Display: Waiting for server
+[2026.11.09-15.22.36:613][  0]LogSlate: Border
+[2026.11.09-15.22.36:613][  0]LogSlate: BreadcrumbButton
+[2026.11.09-15.22.36:613][  0]LogSlate: Brushes.Title
+[2026.11.09-15.22.36:613][  0]LogSlate: ColorPicker.ColorThemes
+[2026.11.09-15.22.36:613][  0]LogSlate: Default
+[2026.11.09-15.22.36:613][  0]LogSlate: Icons.Save
+[2026.11.09-15.22.36:613][  0]LogSlate: Icons.Toolbar.Settings
+[2026.11.09-15.22.36:613][  0]LogSlate: ListView
+[2026.11.09-15.22.36:613][  0]LogSlate: SoftwareCursor_CardinalCross
+[2026.11.09-15.22.36:613][  0]LogSlate: SoftwareCursor_Grab
+[2026.11.09-15.22.36:613][  0]LogSlate: TableView.DarkRow
+[2026.11.09-15.22.36:613][  0]LogSlate: TableView.Row
+[2026.11.09-15.22.36:613][  0]LogSlate: TreeView
+[2026.11.09-15.22.37:050][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2026.11.09-15.22.37:051][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 1.705 ms
+[2026.11.09-15.22.37:083][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2026.11.09-15.22.37:083][  0]LogInit: XR: MultiViewport is Disabled
+[2026.11.09-15.22.37:083][  0]LogInit: XR: Mobile Multiview is Disabled
+[2026.11.09-15.22.37:093][  0]LogTurnkeySupport: Turnkey Device: Win64@CNIC329-31: (Name=CNIC329-31, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.26200.0, Flags="Device_InstallSoftwareValid")
+[2026.11.09-15.22.37:112][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2026.11.09-15.22.37:389][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2026.11.09-15.22.37:389][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2026.11.09-15.22.37:389][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59011'.
+[2026.11.09-15.22.37:391][  0]LogUdpMessaging: Display: Added local interface '172.20.120.70' to multicast group '230.0.0.1:6666'
+[2026.11.09-15.22.37:393][  0]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT: Selecting NPU adapter: NVIDIA GeForce RTX 4070 SUPER
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT: MakeRuntimeORTDml:
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT:   DirectML:  yes
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT:   RHI D3D12: yes
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT:   D3D12:     yes
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT:   NPU:       yes
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT: Interface availability:
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT:   GPU: yes
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT:   RDG: yes
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT:   NPU: yes
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.11.09-15.22.37:422][  0]LogNNERuntimeORT: Selecting NPU adapter: NVIDIA GeForce RTX 4070 SUPER
+[2026.11.09-15.22.37:430][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2026.11.09-15.22.37:564][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.11.09-15.22.37:565][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2026.11.09-15.22.37:577][  0]LogMetaSound: MetaSound Engine Initialized
+[2026.11.09-15.22.37:782][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D438030BBE524C8C800000000000EC00 | Instance: 3B34C3A34AC671402460149DC7C8EE73 (CNIC329-31-7820).
+[2026.11.09-15.22.37:919][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.11.09-15.22.37:919][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.11.09-15.22.37:929][  0]LogTimingProfiler: Initialize
+[2026.11.09-15.22.37:929][  0]LogTimingProfiler: OnSessionChanged
+[2026.11.09-15.22.37:929][  0]LoadingProfiler: Initialize
+[2026.11.09-15.22.37:929][  0]LoadingProfiler: OnSessionChanged
+[2026.11.09-15.22.37:929][  0]LogNetworkingProfiler: Initialize
+[2026.11.09-15.22.37:929][  0]LogNetworkingProfiler: OnSessionChanged
+[2026.11.09-15.22.37:929][  0]LogMemoryProfiler: Initialize
+[2026.11.09-15.22.37:929][  0]LogMemoryProfiler: OnSessionChanged
+[2026.11.09-15.22.37:963][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2026.11.09-15.22.38:308][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2026.11.09-15.22.38:310][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2026.11.09-15.22.38:331][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.11.09-15.22.38:331][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.11.09-15.22.38:522][  0]SourceControl: Revision control is disabled
+[2026.11.09-15.22.38:546][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Icons/doc_16x.png' error.
+[2026.11.09-15.22.38:546][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/Icons/doc_16x.png]
+[2026.11.09-15.22.38:546][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2026.11.09-15.22.38:546][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2026.11.09-15.22.38:564][  0]SourceControl: Revision control is disabled
+[2026.11.09-15.22.38:812][  0]LogCollectionManager: Loaded 0 collections in 0.001228 seconds
+[2026.11.09-15.22.38:814][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/Collections/' took 0.00s
+[2026.11.09-15.22.38:816][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Developers/dgraing1/Collections/' took 0.00s
+[2026.11.09-15.22.38:818][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Collections/' took 0.00s
+[2026.11.09-15.22.38:876][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2026.11.09-15.22.38:876][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png]
+[2026.11.09-15.22.38:876][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2026.11.09-15.22.38:876][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png]
+[2026.11.09-15.22.39:171][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Icons/doc_16x.png' error.
+[2026.11.09-15.22.39:171][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/Icons/doc_16x.png]
+[2026.11.09-15.22.39:171][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2026.11.09-15.22.39:171][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2026.11.09-15.22.39:192][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.17.0-41373641 booting at 2026-11-09T15:22:39.192Z using C
+[2026.11.09-15.22.39:193][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.26100.9549.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=DogCounselor, ProductVersion=++UE5+Release-5.6-CL-44394996, IsServer=false, Flags=DisableOverlay]
+[2026.11.09-15.22.39:193][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.11.09-15.22.39:193][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2026.11.09-15.22.39:198][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2026.11.09-15.22.39:198][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2026.11.09-15.22.39:198][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2026.11.09-15.22.39:198][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000052
+[2026.11.09-15.22.39:198][  0]LogFab: Plugin initialized. VersionName: 0.0.14 (Version: 14) - Engine Version 5.6.1-44394996+++UE5+Release-5.6
+[2026.11.09-15.22.39:242][  0]LogUObjectArray: 42378 objects as part of root set at end of initial load.
+[2026.11.09-15.22.39:242][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.11.09-15.22.39:353][  0]LogEngine: Initializing Engine...
+[2026.11.09-15.22.39:477][  0]LogTedsSettings: UTedsSettingsEditorSubsystem::Initialize
+[2026.11.09-15.22.39:483][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2026.11.09-15.22.39:653][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2026.11.09-15.22.39:667][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2026.11.09-15.22.39:676][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.11.09-15.22.39:689][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.11.09-15.22.39:689][  0]LogInit: Texture streaming: Enabled
+[2026.11.09-15.22.39:698][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::StartSession ( APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.6.1-44394996+++UE5+Release-5.6 )
+[2026.11.09-15.22.39:710][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.11.09-15.22.39:718][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.11.09-15.22.39:718][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.11.09-15.22.39:719][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.11.09-15.22.39:719][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.11.09-15.22.39:719][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.09-15.22.39:719][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.09-15.22.39:719][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.09-15.22.39:719][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.09-15.22.39:719][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.09-15.22.39:719][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.09-15.22.39:719][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.09-15.22.39:719][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.09-15.22.39:719][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.09-15.22.39:719][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.09-15.22.39:719][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.09-15.22.39:728][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.09-15.22.39:795][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.11.09-15.22.39:796][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.09-15.22.39:799][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.09-15.22.39:799][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.09-15.22.39:800][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.11.09-15.22.39:800][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.11.09-15.22.39:802][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.11.09-15.22.39:802][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2026.11.09-15.22.39:802][  0]LogInit: FAudioDevice initialized with ID 1.
+[2026.11.09-15.22.39:803][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.11.09-15.22.39:803][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2026.11.09-15.22.39:809][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.11.09-15.22.39:815][  0]LogInit: Undo buffer set to 256 MB
+[2026.11.09-15.22.39:816][  0]LogInit: Transaction tracking system initialized
+[2026.11.09-15.22.39:892][  0]LocalizationService: Localization service is disabled
+[2026.11.09-15.22.40:079][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/' took 0.01s
+[2026.11.09-15.22.40:155][  0]LogPython: Python enabled via CVar 'Engine.Python.IsEnabledByDefault'
+[2026.11.09-15.22.40:155][  0]LogPython: Using Python 3.11.8
+[2026.11.09-15.22.40:200][  0]LogPython: Display: No pip-enabled plugins with python dependencies found, skipping
+[2026.11.09-15.22.40:391][  0]LogRenderer: Requested compilation of Path Tracing RTPSOs (16 permutations).
+[2026.11.09-15.22.40:534][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2026.11.09-15.22.40:773][  0]LogEditorDataStorage: Initializing
+[2026.11.09-15.22.40:778][  0]LogEditorDataStorage: Initialized
+[2026.11.09-15.22.40:796][  0]LogCore: Display: GameplayInsights module auto-connecting to local trace server...
+[2026.11.09-15.22.40:884][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.11.09-15.22.40:896][  0]SourceControl: Revision control is disabled
+[2026.11.09-15.22.40:896][  0]LogUnrealEdMisc: Loading editor; pre map load, took 28.260
+[2026.11.09-15.22.40:899][  0]Cmd: MAP LOAD FILE="../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/ThirdPerson/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.09-15.22.40:905][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-15.22.40:906][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-15.22.40:943][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.09-15.22.40:946][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
