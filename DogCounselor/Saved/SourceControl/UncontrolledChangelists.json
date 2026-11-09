@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd.uasset",
+				"C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd_Transparent.uasset",
+				"C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.uasset",
+				"C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_PhysicsAsset.uasset",
+				"C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.uasset",
+				"C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_B.uasset",
+				"C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_N.uasset",
+				"C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_R.uasset"
+			]
+		}
+	]
+}

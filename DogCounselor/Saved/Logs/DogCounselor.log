@@ -1262,3 +1262,761 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.09-15.22.44:805][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.598074
 [2026.11.09-15.22.44:807][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -1468595578
 [2026.11.09-15.22.44:807][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.598074, Update Interval: 333.223663
+[2026.11.09-15.24.05:770][582]LogSlate: Took 0.000798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.11.09-15.24.09:613][988]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.09-15.24.09:638][988]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.09-15.24.09:648][989]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.09-15.24.13:699][466]LogContentBrowser: Attempting asset rename: NewFolder -> Custom
+[2026.11.09-15.24.13:699][466]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.09-15.24.16:972][840]LogDerivedDataCache: C:/Users/dgraing1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.09-15.24.18:768][ 18]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.25.38:550][ 18]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.fbx]
+[2026.11.09-15.25.39:917][ 18]LogSlate: Window 'Import Content' being destroyed
+[2026.11.09-15.25.39:941][ 18]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.25.40:052][ 19]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.25.40:124][ 20]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.25.40:236][ 21]LogSkeletalMesh: Building Skeletal Mesh SK_GermanShepherd_01...
+[2026.11.09-15.25.40:264][ 22]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Characters/SK_GermanShepherd_01.SK_GermanShepherd_01
+[2026.11.09-15.25.41:287][118]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.11.09-15.25.41:299][118]LogMaterial: Display: Material /Game/Characters/M_GermanShepherd.M_GermanShepherd needed to have new flag set bUsedWithSkeletalMesh !
+[2026.11.09-15.25.41:312][118]LogMaterial: Display: Material /Game/Characters/M_GermanShepherd_Transparent.M_GermanShepherd_Transparent needed to have new flag set bUsedWithSkeletalMesh !
+[2026.11.09-15.25.41:352][118]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-15.25.41:353][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-15.25.41:398][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.11.09-15.25.41:417][119]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...manshepherd_fbx/Mesh/SK_GermanShepherd_01.fbx]
+[2026.11.09-15.25.41:418][119]Interchange: Warning: [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.fbx : 'SK_GermanShepherd_01', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2026.11.09-15.25.41:418][119]Interchange: Warning: [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.fbx : 'SK_GermanShepherd_01', SkeletalMesh] No smoothing group information was found for this mesh 'GermanShepherd' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.11.09-15.25.41:424][119]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.11.09-15.25.41:424][119]LogInterchangeEngine: [Success] Import Done
+[2026.11.09-15.25.42:954][249]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.11.09-15.25.43:040][250]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: ================================================
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: Total job queries 2,578, among them cache hits 597 (23.16%), DDC hits 1,477 (57.29%), Duplicates 163 (6.32%)
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: Tracking 1,818 distinct input hashes that result in 1,138 distinct outputs (62.60%)
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: RAM used: 11.64 MiB of 1.60 GiB budget. Usage: 0.71%
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: Shaders Compiled: 341
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: Jobs assigned 341, completed 341 (100%)
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: Average time worker was idle: 13.90 s
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: Time job spent in pending queue: average 2.82 s, longest 9.62 s
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: Job execution time: average 3.15 s, max 9.35 s
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: Job life time (pending + execution): average 5.97 s, max 10.79
+[2026.11.09-15.25.43:078][251]LogShaderCompilers: Display: Shader code size: total 3.362 MiB, numShaders 364, average 9.461 KiB, min 2.246 KiB, max 51.403 KiB
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.17 s
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Jobs were issued in 96 batches (only local compilation was used), average 3.55 jobs/batch
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Average processing rate: 18.77 jobs/sec
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Total thread time: 160.066 s
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Total thread preprocess time: 32.096 s
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Percentage time preprocessing: 20.05%
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Effective parallelization: 8.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.629411
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.13 sec, max 2.13 sec, min 2.13 sec)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.10 sec, max 2.10 sec, min 2.10 sec)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display:                            TMaterialCHS_IS_FNoLightMapPolicy (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   13 times, average 1.02 sec, max 1.60 sec, min 0.62 sec)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display:                              FRayTracingDecalMaterialCHS_AHS (compiled    2 times, average 0.98 sec, max 1.17 sec, min 0.79 sec)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display:                                                  FVelocityPS - 8.68% of total time (compiled   23 times, average 0.60 sec, max 0.73 sec, min 0.28 sec)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.25% of total time (compiled   13 times, average 1.02 sec, max 1.60 sec, min 0.62 sec)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.86% of total time (compiled   14 times, average 0.90 sec, max 1.47 sec, min 0.57 sec)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.83% of total time (compiled   28 times, average 0.45 sec, max 1.05 sec, min 0.22 sec)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.07% of total time (compiled   26 times, average 0.44 sec, max 0.56 sec, min 0.29 sec)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: === Material stats ===
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Materials Translated:    147
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Material Translation Only: 0.03 s (25%)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.11.09-15.25.43:079][251]LogShaderCompilers: Display: ================================================
+[2026.11.09-15.25.43:080][251]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.11.09-15.25.47:357][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.11.09-15.25.48:603][654]LogSlate: Window 'Delete Assets' being destroyed
+[2026.11.09-15.25.48:636][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.11.09-15.25.48:652][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.11.09-15.25.48:667][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.11.09-15.26.13:692][992]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.09-15.26.13:702][992]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.09-15.26.13:711][993]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.09-15.26.15:314][178]LogContentBrowser: Attempting asset rename: NewFolder -> rsg_dogspack_germanshepherd_fbx
+[2026.11.09-15.26.15:314][178]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.09-15.26.22:082][635]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.09-15.26.22:090][635]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.09-15.26.22:140][637]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.09-15.26.25:604][ 21]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2026.11.09-15.26.25:604][ 21]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.09-15.26.28:809][366]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.09-15.26.28:817][366]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.09-15.26.28:829][367]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.09-15.26.30:979][622]LogContentBrowser: Attempting asset rename: NewFolder -> Mesh
+[2026.11.09-15.26.30:979][622]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.09-15.26.33:356][890]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.09-15.26.33:365][890]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.09-15.26.33:374][891]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.09-15.26.40:818][776]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2026.11.09-15.26.40:818][776]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.09-15.26.45:361][ 44]LogStreaming: Display: FlushAsyncLoading(435): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.26.45:372][ 44]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.26.45:372][ 44]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_B.png]
+[2026.11.09-15.26.45:373][ 44]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.26.45:373][ 44]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_N.png]
+[2026.11.09-15.26.45:374][ 44]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.26.45:374][ 44]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_R.png]
+[2026.11.09-15.26.46:080][ 46]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.26.46:147][ 47]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.11.09-15.26.46:378][ 47]LogTexture: Display: Building textures: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_B.T_GermanShepherd_B (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 328.583323 MB), EncodeSpeed: Fast
+[2026.11.09-15.26.46:391][ 47]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.11.09-15.26.46:399][ 48]LogTexture: Display: Building textures: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_N.T_GermanShepherd_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 517.499988 MB), EncodeSpeed: Fast
+[2026.11.09-15.26.46:401][ 48]LogTexture: Display: Building textures: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_R.T_GermanShepherd_R (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 359.583323 MB), EncodeSpeed: Fast
+[2026.11.09-15.26.46:737][ 48]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...hepherd_fbx/Textures/T_GermanShepherd_B.png]
+[2026.11.09-15.26.46:737][ 48]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.26.46:737][ 48]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...hepherd_fbx/Textures/T_GermanShepherd_N.png]
+[2026.11.09-15.26.46:737][ 48]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.09-15.26.46:738][ 48]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...hepherd_fbx/Textures/T_GermanShepherd_R.png]
+[2026.11.09-15.26.46:746][ 48]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.11.09-15.26.46:746][ 48]LogInterchangeEngine: [Success] Import Done
+[2026.11.09-15.26.55:509][444]LogStreaming: Display: FlushAsyncLoading(441): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.26.55:565][444]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.fbx]
+[2026.11.09-15.26.57:288][444]LogSlate: Window 'Import Content' being destroyed
+[2026.11.09-15.26.57:306][444]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.26.57:391][445]LogStreaming: Display: FlushAsyncLoading(442): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.26.57:446][446]LogStreaming: Display: FlushAsyncLoading(446): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.26.57:506][448]LogSkeletalMesh: Building Skeletal Mesh SK_GermanShepherd_01...
+[2026.11.09-15.26.57:524][448]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01
+[2026.11.09-15.26.57:615][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.11.09-15.26.57:622][449]LogMaterial: Display: Material /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd.M_GermanShepherd needed to have new flag set bUsedWithSkeletalMesh !
+[2026.11.09-15.26.57:633][449]LogMaterial: Display: Material /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd_Transparent.M_GermanShepherd_Transparent needed to have new flag set bUsedWithSkeletalMesh !
+[2026.11.09-15.26.57:637][449]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-15.26.57:637][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-15.26.57:642][449]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...manshepherd_fbx/Mesh/SK_GermanShepherd_01.fbx]
+[2026.11.09-15.26.57:642][449]Interchange: Warning: [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.fbx : 'SK_GermanShepherd_01', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2026.11.09-15.26.57:642][449]Interchange: Warning: [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.fbx : 'SK_GermanShepherd_01', SkeletalMesh] No smoothing group information was found for this mesh 'GermanShepherd' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.11.09-15.26.57:663][449]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.11.09-15.26.57:663][449]LogInterchangeEngine: [Success] Import Done
+[2026.11.09-15.26.58:625][495]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.11.09-15.26.58:696][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.11.09-15.26.58:737][496]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.11.09-15.27.05:413][943]LogStreaming: Display: FlushAsyncLoading(447): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.27.05:465][943]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Idle Breathing_v01.fbx]
+[2026.11.09-15.27.05:520][943]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.05:530][943]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.06:610][943]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.08:779][943]LogSlate: Window 'Interchange Preview' being destroyed
+[2026.11.09-15.27.11:367][943]LogSlate: Window 'Import Content' being destroyed
+[2026.11.09-15.27.11:388][943]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.27.11:389][943]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.27.11:390][943]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.27.11:392][943]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.27.11:393][943]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.27.11:394][943]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.27.11:396][943]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.27.11:397][943]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.27.11:398][943]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.11.09-15.27.11:491][944]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.27.11:491][944]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.27.11:491][944]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.27.11:491][944]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.27.11:491][944]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.27.11:491][944]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.27.11:491][944]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.27.11:491][944]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.09-15.27.11:491][944]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.11.09-15.27.11:491][944]LogInterchangeEngine: [Success] Import Canceled
+[2026.11.09-15.27.15:875][ 22]LogStreaming: Display: FlushAsyncLoading(456): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.27.15:933][ 22]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Idle Breathing_v01.fbx]
+[2026.11.09-15.27.15:987][ 22]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.15:998][ 22]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.26:209][ 22]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.26:818][ 22]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.27:120][ 22]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.27:411][ 22]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.29:208][ 22]LogSlate: Window 'Import Content' being destroyed
+[2026.11.09-15.27.29:223][ 22]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.27.29:375][ 23]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.11.09-15.27.29:375][ 23]LogInterchangeEngine: [Success] Import Canceled
+[2026.11.09-15.27.33:040][230]LogStreaming: Display: FlushAsyncLoading(457): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.27.33:095][230]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Idle_Playing_v01.fbx]
+[2026.11.09-15.27.33:147][230]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.33:157][230]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.40:287][230]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.40:968][230]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.41:565][230]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.27.49:688][230]LogSlate: Window 'Import Content' being destroyed
+[2026.11.09-15.27.49:741][230]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.27.49:742][230]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.27.49:743][230]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.27.49:745][230]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.27.49:746][230]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.27.49:747][230]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.27.49:748][230]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.27.49:749][230]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.27.49:750][230]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.11.09-15.27.49:841][231]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.27.49:841][231]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.27.49:841][231]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.27.49:841][231]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.27.49:841][231]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.27.49:841][231]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.27.49:841][231]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.27.49:841][231]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.09-15.27.49:841][231]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.11.09-15.27.49:841][231]LogInterchangeEngine: [Success] Import Canceled
+[2026.11.09-15.28.02:402][161]LogStreaming: Display: FlushAsyncLoading(466): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.28.02:430][161]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Idle Breathing_v01.fbx]
+[2026.11.09-15.28.02:479][161]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.28.02:485][161]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.28.04:072][161]LogSlate: Window 'Import Content' being destroyed
+[2026.11.09-15.28.04:089][161]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.28.04:092][161]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.28.04:093][161]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.28.04:094][161]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.28.04:095][161]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.28.04:096][161]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.28.04:097][161]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.28.04:099][161]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.28.04:100][161]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.11.09-15.28.04:191][162]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.28.04:191][162]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.28.04:191][162]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.28.04:191][162]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.28.04:191][162]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.28.04:191][162]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.28.04:191][162]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.28.04:191][162]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.09-15.28.04:191][162]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.11.09-15.28.04:191][162]LogInterchangeEngine: [Success] Import Canceled
+[2026.11.09-15.28.08:082][311]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.28.08:131][311]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Idle Breathing_v01.fbx]
+[2026.11.09-15.28.08:183][311]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.28.08:190][311]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.28.10:029][311]LogSlate: Window 'Import Content' being destroyed
+[2026.11.09-15.28.10:040][311]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.28.10:041][311]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.28.10:043][311]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.28.10:044][311]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.28.10:046][311]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.28.10:047][311]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.28.10:048][311]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.28.10:049][311]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.28.10:050][311]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.11.09-15.28.10:051][311]LogInterchangeEngine: [Pending] Importing -  (10)
+[2026.11.09-15.28.10:051][311]LogInterchangeEngine: [Pending] Importing -  (11)
+[2026.11.09-15.28.10:052][311]LogInterchangeEngine: [Pending] Importing -  (12)
+[2026.11.09-15.28.10:052][311]LogInterchangeEngine: [Pending] Importing -  (13)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (12)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (11)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (10)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.11.09-15.28.10:143][312]LogInterchangeEngine: [Success] Import Canceled
+[2026.11.09-15.28.18:602][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 339.401306
+[2026.11.09-15.28.19:601][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-15.28.19:601][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 340.067413, Update Interval: 310.964691
+[2026.11.09-15.28.34:279][605]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.28.34:312][605]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Idle Breathing_v01.fbx]
+[2026.11.09-15.28.34:360][605]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.28.34:366][605]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.28.35:643][605]LogSlate: Window 'Import Content' being destroyed
+[2026.11.09-15.28.35:656][605]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.28.35:658][605]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.28.35:659][605]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.28.35:661][605]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.28.35:661][605]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.28.35:662][605]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.28.35:664][605]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.28.35:665][605]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.28.35:666][605]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.11.09-15.28.35:760][606]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.28.35:760][606]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.28.35:760][606]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.28.35:760][606]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.28.35:760][606]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.28.35:760][606]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.28.35:760][606]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.28.35:760][606]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.09-15.28.35:760][606]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.11.09-15.28.35:760][606]LogInterchangeEngine: [Success] Import Canceled
+[2026.11.09-15.28.37:645][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.11.09-15.28.38:785][771]LogSlate: Window 'Save Content' being destroyed
+[2026.11.09-15.28.38:795][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-15.28.38:850][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd] ([1] browsable assets)...
+[2026.11.09-15.28.38:893][771]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd.M_GermanShepherd]
+[2026.11.09-15.28.38:893][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd]
+[2026.11.09-15.28.38:906][771]LogSavePackage: Moving output files for package: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd
+[2026.11.09-15.28.38:906][771]LogSavePackage: Moving '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/M_GermanShepherd9DC899C245479180EEBA069E8ACD21F5.tmp' to '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd.uasset'
+[2026.11.09-15.28.38:910][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd_Transparent] ([1] browsable assets)...
+[2026.11.09-15.28.38:915][771]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd_Transparent.M_GermanShepherd_Transparent]
+[2026.11.09-15.28.38:915][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd_Transparent]
+[2026.11.09-15.28.38:921][771]LogSavePackage: Moving output files for package: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd_Transparent
+[2026.11.09-15.28.38:921][771]LogSavePackage: Moving '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/M_GermanShepherd_Transparent1BF0A67443D9A582821616A1A328F43E.tmp' to '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd_Transparent.uasset'
+[2026.11.09-15.28.38:923][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01] ([1] browsable assets)...
+[2026.11.09-15.28.38:928][771]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01]
+[2026.11.09-15.28.38:928][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01]
+[2026.11.09-15.28.38:938][771]LogSavePackage: Moving output files for package: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01
+[2026.11.09-15.28.38:938][771]LogSavePackage: Moving '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/SK_GermanShepherd_01A1590ED445AFA6940BBF239EAF5C19B5.tmp' to '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.uasset'
+[2026.11.09-15.28.38:939][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_PhysicsAsset] ([1] browsable assets)...
+[2026.11.09-15.28.38:944][771]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_PhysicsAsset.SK_GermanShepherd_01_PhysicsAsset]
+[2026.11.09-15.28.38:944][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_PhysicsAsset]
+[2026.11.09-15.28.38:951][771]LogSavePackage: Moving output files for package: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_PhysicsAsset
+[2026.11.09-15.28.38:951][771]LogSavePackage: Moving '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/SK_GermanShepherd_01_PhysicsAsse32968FC3479A06F0CE83A297FB501A07.tmp' to '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_PhysicsAsset.uasset'
+[2026.11.09-15.28.38:952][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton] ([1] browsable assets)...
+[2026.11.09-15.28.38:961][771]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.SK_GermanShepherd_01_Skeleton]
+[2026.11.09-15.28.38:961][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton]
+[2026.11.09-15.28.38:965][771]LogSavePackage: Moving output files for package: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton
+[2026.11.09-15.28.38:965][771]LogSavePackage: Moving '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/SK_GermanShepherd_01_Skeleton8B3DAD404F7B416FEEB2679F401D32EA.tmp' to '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.uasset'
+[2026.11.09-15.28.38:966][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_B] ([1] browsable assets)...
+[2026.11.09-15.28.38:968][771]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_B.T_GermanShepherd_B]
+[2026.11.09-15.28.38:968][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_B]
+[2026.11.09-15.28.39:003][771]LogSavePackage: Moving output files for package: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_B
+[2026.11.09-15.28.39:003][771]LogSavePackage: Moving '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/T_GermanShepherd_B4EEA09DE4EE48866C88BB090A705E168.tmp' to '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_B.uasset'
+[2026.11.09-15.28.39:004][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_N] ([1] browsable assets)...
+[2026.11.09-15.28.39:006][771]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_N.T_GermanShepherd_N]
+[2026.11.09-15.28.39:006][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_N]
+[2026.11.09-15.28.39:042][771]LogSavePackage: Moving output files for package: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_N
+[2026.11.09-15.28.39:042][771]LogSavePackage: Moving '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/T_GermanShepherd_N2E1C428F4A58CB2AAFE81488A8B3B3CB.tmp' to '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_N.uasset'
+[2026.11.09-15.28.39:043][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_R] ([1] browsable assets)...
+[2026.11.09-15.28.39:045][771]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_R.T_GermanShepherd_R]
+[2026.11.09-15.28.39:045][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_R]
+[2026.11.09-15.28.39:077][771]LogSavePackage: Moving output files for package: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_R
+[2026.11.09-15.28.39:077][771]LogSavePackage: Moving '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/T_GermanShepherd_RA6F3CDA444CD25A2F57C25AF8A50671E.tmp' to '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_R.uasset'
+[2026.11.09-15.28.39:087][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 292.948 ms
+[2026.11.09-15.28.39:150][771]LogContentValidation: Display: Starting to validate 8 assets
+[2026.11.09-15.28.39:150][771]LogContentValidation: Enabled validators:
+[2026.11.09-15.28.39:151][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-15.28.39:151][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-15.28.39:151][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-15.28.39:151][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-15.28.39:151][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-15.28.39:151][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-15.28.39:151][771]AssetCheck: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd Validating asset
+[2026.11.09-15.28.39:151][771]AssetCheck: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd_Transparent Validating asset
+[2026.11.09-15.28.39:151][771]AssetCheck: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01 Validating asset
+[2026.11.09-15.28.39:151][771]AssetCheck: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_PhysicsAsset Validating asset
+[2026.11.09-15.28.39:151][771]AssetCheck: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton Validating asset
+[2026.11.09-15.28.39:151][771]AssetCheck: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_B Validating asset
+[2026.11.09-15.28.39:151][771]AssetCheck: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_N Validating asset
+[2026.11.09-15.28.39:151][771]AssetCheck: /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_R Validating asset
+[2026.11.09-15.28.39:172][772]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.09-15.28.43:227][903]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.28.43:283][903]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Idle Breathing_v01.fbx]
+[2026.11.09-15.28.43:339][903]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.28.43:347][903]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.28.47:167][903]LogSlate: Window 'Import Content' being destroyed
+[2026.11.09-15.28.47:191][903]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.28.47:192][903]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.28.47:195][903]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.28.47:196][903]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.28.47:197][903]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.28.47:199][903]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.28.47:200][903]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.28.47:201][903]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.28.47:203][903]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.11.09-15.28.47:301][904]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.28.47:301][904]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.28.47:301][904]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.28.47:301][904]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.28.47:301][904]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.28.47:301][904]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.28.47:301][904]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.28.47:301][904]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.09-15.28.47:301][904]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.11.09-15.28.47:301][904]LogInterchangeEngine: [Success] Import Canceled
+[2026.11.09-15.29.32:459][103]LogStreaming: Display: FlushAsyncLoading(506): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.29.32:516][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Idle Breathing_v01.fbx]
+[2026.11.09-15.29.32:565][103]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.29.32:571][103]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.11.09-15.30.28:652][103]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.11.09-15.30.32:926][103]LogSlate: Window 'Import Content' being destroyed
+[2026.11.09-15.30.32:940][103]LogInterchangeEngine: [Pending] Importing
+[2026.11.09-15.30.33:283][106]LogStreaming: Display: FlushAsyncLoading(515): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.30.33:339][107]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Idle_Breathing_v01.1_type_Idle_Breathing_v01 (Required Memory Estimate: 0.53 MB)
+[2026.11.09-15.30.33:354][107]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...pherd_fbx/Animations/1 type_Idle Breathing_v01.fbx]
+[2026.11.09-15.30.33:354][107]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.30.33:354][107]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.11.09-15.30.33:354][107]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Idle_Playing_v01.fbx]
+[2026.11.09-15.30.33:365][108]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Idle_Breathing_v01.1_type_Idle_Breathing_v01, at AnimationSequence/2c58b8c3281f6747affab49c6f76e9809a27ba46
+[2026.11.09-15.30.33:436][109]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.11.09-15.30.33:657][112]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.30.33:671][113]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Idle_Playing_v01.1_type_Idle_Playing_v01 (Required Memory Estimate: 1.48 MB)
+[2026.11.09-15.30.33:688][113]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...pherd_fbx/Animations/1 type_Idle_Playing_v01.fbx]
+[2026.11.09-15.30.33:688][113]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.30.33:688][113]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.11.09-15.30.33:688][113]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Run Lean Left_v01.fbx]
+[2026.11.09-15.30.33:782][121]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Idle_Playing_v01.1_type_Idle_Playing_v01, at AnimationSequence/66331b07f7dc903c38715505337b4659b4308da2
+[2026.11.09-15.30.33:867][122]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.30.33:880][123]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Run_Lean_Left_v01.1_type_Run_Lean_Left_v01 (Required Memory Estimate: 0.33 MB)
+[2026.11.09-15.30.33:893][123]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Run_Lean_Left_v01.1_type_Run_Lean_Left_v01, at AnimationSequence/c72f132d84021b5d38c6c052982d7f0525fa7bbc
+[2026.11.09-15.30.33:910][123]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...pherd_fbx/Animations/1 type_Run Lean Left_v01.fbx]
+[2026.11.09-15.30.33:910][123]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.30.33:910][123]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.09-15.30.33:910][123]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Run Lean Right_v01.fbx]
+[2026.11.09-15.30.34:091][132]LogStreaming: Display: FlushAsyncLoading(518): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.30.34:108][133]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Run_Lean_Right_v01.1_type_Run_Lean_Right_v01 (Required Memory Estimate: 0.33 MB)
+[2026.11.09-15.30.34:118][133]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Run_Lean_Right_v01.1_type_Run_Lean_Right_v01, at AnimationSequence/8a3394b206ba6f08d6b8654b637d4a7c9a26c6a1
+[2026.11.09-15.30.34:133][133]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...pherd_fbx/Animations/1 type_Run Lean Right_v01.fbx]
+[2026.11.09-15.30.34:133][133]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.30.34:133][133]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.09-15.30.34:133][133]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Run Loop_v01 test.fbx]
+[2026.11.09-15.30.34:314][142]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.30.34:338][143]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Run_Loop_v01_test.1_type_Run_Loop_v01_test (Required Memory Estimate: 0.33 MB)
+[2026.11.09-15.30.34:348][143]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Run_Loop_v01_test.1_type_Run_Loop_v01_test, at AnimationSequence/e606e21530db66dd3b66c3dea536b221f817ddeb
+[2026.11.09-15.30.34:365][143]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...pherd_fbx/Animations/1 type_Run Loop_v01 test.fbx]
+[2026.11.09-15.30.34:365][143]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.30.34:365][143]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.09-15.30.34:365][143]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Run Loop_v01.fbx]
+[2026.11.09-15.30.34:561][152]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.30.34:589][153]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...pherd_fbx/Animations/1 type_Run Loop_v01.fbx]
+[2026.11.09-15.30.34:589][153]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.30.34:589][153]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.09-15.30.34:589][153]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Walk Loop_v01.fbx]
+[2026.11.09-15.30.34:754][162]LogStreaming: Display: FlushAsyncLoading(521): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.30.34:781][163]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Walk_Loop_v01.1_type_Walk_Loop_v01 (Required Memory Estimate: 0.41 MB)
+[2026.11.09-15.30.34:793][163]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Walk_Loop_v01.1_type_Walk_Loop_v01, at AnimationSequence/b4b230917f8fe0a22079a0fabc729de9a4d08c29
+[2026.11.09-15.30.34:809][163]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...pherd_fbx/Animations/1 type_Walk Loop_v01.fbx]
+[2026.11.09-15.30.34:809][163]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.30.34:810][163]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.09-15.30.34:810][163]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Walk_Turn_Left_v01.fbx]
+[2026.11.09-15.30.35:095][171]LogStreaming: Display: FlushAsyncLoading(522): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.30.35:111][172]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Walk_Turn_Left_v01.1_type_Walk_Turn_Left_v01 (Required Memory Estimate: 0.41 MB)
+[2026.11.09-15.30.35:127][172]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Walk_Turn_Left_v01.1_type_Walk_Turn_Left_v01, at AnimationSequence/94b71609aaaefbd8357017f11f18565a201b4d51
+[2026.11.09-15.30.35:145][172]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...pherd_fbx/Animations/1 type_Walk_Turn_Left_v01.fbx]
+[2026.11.09-15.30.35:145][172]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.09-15.30.35:145][172]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.09-15.30.35:145][172]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Documents/rsg_dogspack_germanshepherd_fbx/Animations/1 type_Walk_Turn_Right_v01.fbx]
+[2026.11.09-15.30.35:319][179]LogStreaming: Display: FlushAsyncLoading(523): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.09-15.30.35:332][180]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Walk_Turn_Right_v01.1_type_Walk_Turn_Right_v01 (Required Memory Estimate: 0.41 MB)
+[2026.11.09-15.30.35:346][180]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/rsg_dogspack_germanshepherd_fbx/Animations/1_type_Walk_Turn_Right_v01.1_type_Walk_Turn_Right_v01, at AnimationSequence/8f325dbb4548e938f582e2864eb82cfc1e52c4e6
+[2026.11.09-15.30.35:363][180]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...pherd_fbx/Animations/1 type_Walk_Turn_Right_v01.fbx]
+[2026.11.09-15.30.35:363][180]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.11.09-15.30.35:363][180]LogInterchangeEngine: [Success] Import Done
+[2026.11.09-15.30.47:195][423]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01
+[2026.11.09-15.30.47:195][423]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01
+[2026.11.09-15.30.47:196][423]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_0
+[2026.11.09-15.30.47:197][423]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_0
+[2026.11.09-15.30.48:261][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.11.09-15.30.48:266][543]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.11.09-15.30.48:272][543]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01
+[2026.11.09-15.30.48:272][543]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01
+[2026.11.09-15.30.48:276][543]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_UAID_2C58B9914D95321303_1922158695
+[2026.11.09-15.30.48:276][543]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_UAID_2C58B9914D95321303_1922158695
+[2026.11.09-15.30.49:804][704]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.09-15.30.49:812][704]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.11.09-15.30.49:812][704]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.11.09-15.30.49:814][704]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 2.947 ms
+[2026.11.09-15.30.49:817][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.09-15.30.49:821][704]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2026.11.09-15.30.49:824][704]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.11.09-15.30.49:845][705]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.11.09-15.30.49:852][705]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.11.09-15.30.49:852][705]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 764 us
+[2026.11.09-15.30.49:853][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006868s)
+[2026.11.09-15.30.49:853][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006929s)
+[2026.11.09-15.30.49:863][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.11.09-15.30.49:866][705]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.11.09-15.30.49:868][705]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.11.09-15.30.49:868][705]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.11.09-15.30.49:868][705]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.11.09-15.30.49:868][705]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.11.09-15.30.49:869][705]LogWorldPartition: Display: WorldPartition initialize took 1.715 ms (total: 117.559 ms)
+[2026.11.09-15.30.49:869][705]LogPlayLevel: PIE: World Init took: (0.003701s)
+[2026.11.09-15.30.49:870][705]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.11.09-15.30.49:870][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.09-15.30.49:870][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.09-15.30.49:870][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.09-15.30.49:870][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.09-15.30.49:870][705]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.09-15.30.49:870][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.09-15.30.49:870][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.09-15.30.49:870][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.09-15.30.49:870][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.09-15.30.49:870][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.09-15.30.49:871][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.09-15.30.49:872][705]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.09-15.30.49:927][705]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.11.09-15.30.49:928][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.09-15.30.49:928][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.09-15.30.49:928][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.09-15.30.49:928][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.11.09-15.30.49:928][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.11.09-15.30.49:930][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.11.09-15.30.49:930][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.11.09-15.30.49:930][705]LogInit: FAudioDevice initialized with ID 2.
+[2026.11.09-15.30.49:930][705]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_ThirdPerson'.
+[2026.11.09-15.30.49:930][705]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.11.09-15.30.49:935][705]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.09-15.30.49:938][705]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.11.09-10.30.49
+[2026.11.09-15.30.49:939][705]LogWorld: Bringing up level for play took: 0.002162
+[2026.11.09-15.30.49:978][705]PIE: Server logged in
+[2026.11.09-15.30.49:980][705]PIE: Play in editor total start time 0.17 seconds.
+[2026.11.09-15.30.50:029][706]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.09-15.30.53:648][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-15.30.53:648][117]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.11.09-15.30.53:649][117]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-15.30.53:649][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-15.30.53:649][117]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.11.09-15.30.53:652][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.09-15.30.53:653][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-15.30.53:667][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-15.30.53:667][117]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.11.09-15.30.53:669][117]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.11.09-15.30.53:671][117]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.11.09-15.30.53:681][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.11.09-15.30.53:731][118]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.11.09-15.30.57:252][529]Cmd: DELETE
+[2026.11.09-15.30.57:252][529]Cmd: ACTOR DELETE
+[2026.11.09-15.30.57:268][529]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2026.11.09-15.30.57:279][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.11.09-15.30.57:280][529]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.11.09-15.30.59:702][766]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.SK_GermanShepherd_01_Skeleton
+[2026.11.09-15.30.59:702][766]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.SK_GermanShepherd_01_Skeleton
+[2026.11.09-15.30.59:702][766]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_1
+[2026.11.09-15.30.59:703][766]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_1
+[2026.11.09-15.31.00:606][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.11.09-15.31.00:608][870]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.11.09-15.31.00:613][870]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.SK_GermanShepherd_01_Skeleton
+[2026.11.09-15.31.00:613][870]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.SK_GermanShepherd_01_Skeleton
+[2026.11.09-15.31.00:615][870]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_UAID_2C58B9914D95321303_1934498696
+[2026.11.09-15.31.00:615][870]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_UAID_2C58B9914D95321303_1934498696
+[2026.11.09-15.31.01:544][964]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.09-15.31.01:549][964]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.11.09-15.31.01:549][964]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.11.09-15.31.01:549][964]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 542 us (total: 3.489 ms)
+[2026.11.09-15.31.01:549][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.09-15.31.01:549][964]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2026.11.09-15.31.01:552][964]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.11.09-15.31.01:565][965]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.11.09-15.31.01:569][965]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.11.09-15.31.01:570][965]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 837 us (total: 1.602 ms)
+[2026.11.09-15.31.01:570][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004908s)
+[2026.11.09-15.31.01:570][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004949s)
+[2026.11.09-15.31.01:582][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.11.09-15.31.01:583][965]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.11.09-15.31.01:585][965]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.11.09-15.31.01:585][965]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.11.09-15.31.01:585][965]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.11.09-15.31.01:585][965]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.11.09-15.31.01:586][965]LogWorldPartition: Display: WorldPartition initialize took 1.137 ms (total: 118.697 ms)
+[2026.11.09-15.31.01:586][965]LogPlayLevel: PIE: World Init took: (0.002927s)
+[2026.11.09-15.31.01:587][965]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.11.09-15.31.01:587][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.09-15.31.01:587][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.09-15.31.01:587][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.09-15.31.01:587][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.09-15.31.01:587][965]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.09-15.31.01:587][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.09-15.31.01:587][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.09-15.31.01:587][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.09-15.31.01:587][965]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.09-15.31.01:587][965]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.09-15.31.01:587][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.09-15.31.01:589][965]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.09-15.31.01:645][965]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.11.09-15.31.01:646][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.09-15.31.01:646][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.09-15.31.01:646][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.09-15.31.01:646][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.11.09-15.31.01:646][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.11.09-15.31.01:648][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.11.09-15.31.01:648][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.11.09-15.31.01:648][965]LogInit: FAudioDevice initialized with ID 3.
+[2026.11.09-15.31.01:648][965]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_ThirdPerson'.
+[2026.11.09-15.31.01:648][965]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.11.09-15.31.01:651][965]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.09-15.31.01:654][965]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.11.09-10.31.01
+[2026.11.09-15.31.01:654][965]LogWorld: Bringing up level for play took: 0.002440
+[2026.11.09-15.31.01:658][965]PIE: Server logged in
+[2026.11.09-15.31.01:660][965]PIE: Play in editor total start time 0.111 seconds.
+[2026.11.09-15.31.01:696][966]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.09-15.31.05:124][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-15.31.05:124][370]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.11.09-15.31.05:125][370]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-15.31.05:125][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-15.31.05:125][370]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.11.09-15.31.05:126][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.09-15.31.05:128][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-15.31.05:139][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-15.31.05:140][370]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.11.09-15.31.05:140][370]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.11.09-15.31.05:142][370]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.11.09-15.31.05:150][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.11.09-15.31.05:257][372]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.11.09-15.31.09:501][875]Cmd: DELETE
+[2026.11.09-15.31.09:501][875]Cmd: ACTOR DELETE
+[2026.11.09-15.31.09:502][875]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2026.11.09-15.31.09:517][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.11.09-15.31.09:518][875]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.11.09-15.31.23:020][525]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.11.09-15.31.23:843][616]LogMaterial: Display: Material /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/M_GermanShepherd.M_GermanShepherd needed to have new flag set bUsedWithNanite !
+[2026.11.09-15.31.25:482][800]Cmd: TRANSACTION UNDO
+[2026.11.09-15.31.25:482][800]LogEditorTransaction: Undo Place Objects
+[2026.11.09-15.31.27:333][927]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.SK_GermanShepherd_01_Skeleton
+[2026.11.09-15.31.27:333][927]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.SK_GermanShepherd_01_Skeleton
+[2026.11.09-15.31.27:333][927]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_2
+[2026.11.09-15.31.27:334][927]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_2
+[2026.11.09-15.31.28:069][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.11.09-15.31.28:072][ 11]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.11.09-15.31.28:077][ 11]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.SK_GermanShepherd_01_Skeleton
+[2026.11.09-15.31.28:077][ 11]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01_Skeleton.SK_GermanShepherd_01_Skeleton
+[2026.11.09-15.31.28:079][ 11]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_UAID_2C58B9914D95321303_1961962697
+[2026.11.09-15.31.28:080][ 11]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/rsg_dogspack_germanshepherd_fbx/Mesh/SK_GermanShepherd_01.SK_GermanShepherd_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_UAID_2C58B9914D95321303_1961962697
+[2026.11.09-15.31.33:258][544]LogMaterial: Display: Material /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_B_Mat.T_GermanShepherd_B_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2026.11.09-15.31.33:260][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC965A00 with pending SubmitJob call.
+[2026.11.09-15.31.33:260][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC968C00 with pending SubmitJob call.
+[2026.11.09-15.31.33:260][544]LogShaderCompilers: Display: Cancelled job 0x00000243FCC54600 with pending SubmitJob call.
+[2026.11.09-15.31.33:261][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC961400 with pending SubmitJob call.
+[2026.11.09-15.31.33:261][544]LogShaderCompilers: Display: Cancelled job 0x00000243FCC5D200 with pending SubmitJob call.
+[2026.11.09-15.31.33:261][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC963200 with pending SubmitJob call.
+[2026.11.09-15.31.33:262][544]LogShaderCompilers: Display: Cancelled job 0x00000243FCC51E00 with pending SubmitJob call.
+[2026.11.09-15.31.33:262][544]LogShaderCompilers: Display: Cancelled job 0x00000243B69B33A0 with pending SubmitJob call.
+[2026.11.09-15.31.33:262][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC96C800 with pending SubmitJob call.
+[2026.11.09-15.31.33:265][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC96A000 (data 0x00000241BE3026C8) with pending DDC miss.
+[2026.11.09-15.31.33:266][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC96BE00 with pending SubmitJob call.
+[2026.11.09-15.31.33:266][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC96DC00 (data 0x00000241BE302720) with pending DDC hit.
+[2026.11.09-15.31.33:266][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC966400 (data 0x00000241BE302778) with pending DDC miss.
+[2026.11.09-15.31.33:266][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC96F000 (data 0x00000241BE3027D0) with pending DDC miss.
+[2026.11.09-15.31.33:266][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC96AA00 with pending SubmitJob call.
+[2026.11.09-15.31.33:267][544]LogShaderCompilers: Display: Cancelled job 0x00000243B69B4FA0 with pending SubmitJob call.
+[2026.11.09-15.31.33:267][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC961E00 with pending SubmitJob call.
+[2026.11.09-15.31.33:268][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC964600 with pending SubmitJob call.
+[2026.11.09-15.31.33:268][544]LogShaderCompilers: Display: Cancelled job 0x00000243B69BF500 with pending SubmitJob call.
+[2026.11.09-15.31.33:268][544]LogShaderCompilers: Display: Cancelled job 0x00000243FCC52800 with pending SubmitJob call.
+[2026.11.09-15.31.33:269][544]LogShaderCompilers: Display: Cancelled job 0x00000243FCC53200 with pending SubmitJob call.
+[2026.11.09-15.31.33:271][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC96E600 with pending SubmitJob call.
+[2026.11.09-15.31.33:272][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC966E00 with pending SubmitJob call.
+[2026.11.09-15.31.33:273][544]LogShaderCompilers: Display: Cancelled job 0x00000243FC969600 with pending SubmitJob call.
+[2026.11.09-15.31.43:142][538]LogMaterial: Display: Material /Game/Characters/rsg_dogspack_germanshepherd_fbx/Textures/T_GermanShepherd_Mat.T_GermanShepherd_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2026.11.09-15.31.43:142][538]LogShaderCompilers: Display: Cancelled job 0x00000243CB81D200 (data 0x00000241BE3035E8) with pending DDC miss.
+[2026.11.09-15.31.43:142][538]LogShaderCompilers: Display: Cancelled job 0x00000243CB819600 (data 0x00000241BE303538) with pending DDC hit.
+[2026.11.09-15.31.43:142][538]LogShaderCompilers: Display: Cancelled job 0x00000243CB811E00 (data 0x00000241BE303590) with pending DDC miss.
+[2026.11.09-15.31.43:143][538]LogShaderCompilers: Display: Cancelled job 0x00000243CB81A000 with pending SubmitJob call.
+[2026.11.09-15.31.43:144][538]LogShaderCompilers: Display: Cancelled job 0x00000243CB81DC00 with pending SubmitJob call.
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: ================================================
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Total job queries 2,735, among them cache hits 672 (24.57%), DDC hits 1,517 (55.47%), Duplicates 172 (6.29%)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Tracking 1,884 distinct input hashes that result in 1,185 distinct outputs (62.90%)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: RAM used: 12.04 MiB of 1.60 GiB budget. Usage: 0.74%
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Shaders Compiled: 367
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Jobs assigned 367, completed 367 (100%)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Average time worker was idle: 48.90 s
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Time job spent in pending queue: average 2.63 s, longest 9.62 s
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Job execution time: average 2.99 s, max 9.35 s
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Job life time (pending + execution): average 5.62 s, max 10.79
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Shader code size: total 3.656 MiB, numShaders 392, average 9.551 KiB, min 2.246 KiB, max 51.403 KiB
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.93 s
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Jobs were issued in 114 batches (only local compilation was used), average 3.22 jobs/batch
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Average processing rate: 16.74 jobs/sec
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Total thread time: 173.522 s
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Total thread preprocess time: 33.791 s
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Percentage time preprocessing: 19.47%
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Effective parallelization: 7.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.565265
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.77 sec, max 2.13 sec, min 1.41 sec)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.76 sec, max 2.10 sec, min 1.43 sec)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.20 sec, max 1.20 sec, min 1.20 sec)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display:                            TMaterialCHS_IS_FNoLightMapPolicy (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   14 times, average 1.02 sec, max 1.60 sec, min 0.62 sec)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display:                                                  FVelocityPS - 8.29% of total time (compiled   24 times, average 0.60 sec, max 0.73 sec, min 0.28 sec)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.23% of total time (compiled   14 times, average 1.02 sec, max 1.60 sec, min 0.62 sec)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.87% of total time (compiled   15 times, average 0.91 sec, max 1.47 sec, min 0.57 sec)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.59% of total time (compiled   30 times, average 0.44 sec, max 1.05 sec, min 0.22 sec)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.90% of total time (compiled   28 times, average 0.43 sec, max 0.56 sec, min 0.29 sec)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: === Material stats ===
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Materials Translated:    156
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Material Translation Only: 0.03 s (25%)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.11.09-15.31.47:207][875]LogShaderCompilers: Display: ================================================
+[2026.11.09-15.32.12:078][573]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.09-15.32.12:081][573]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.11.09-15.32.12:081][573]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.11.09-15.32.12:082][573]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 508 us (total: 3.998 ms)
+[2026.11.09-15.32.12:082][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.09-15.32.12:082][573]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2026.11.09-15.32.12:085][573]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.11.09-15.32.12:100][574]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.11.09-15.32.12:104][574]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.11.09-15.32.12:105][574]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 773 us (total: 2.376 ms)
+[2026.11.09-15.32.12:105][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004761s)
+[2026.11.09-15.32.12:105][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004799s)
+[2026.11.09-15.32.12:119][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.11.09-15.32.12:124][574]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.11.09-15.32.12:125][574]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.11.09-15.32.12:125][574]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.11.09-15.32.12:125][574]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.11.09-15.32.12:125][574]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.11.09-15.32.12:126][574]LogWorldPartition: Display: WorldPartition initialize took 997 us (total: 119.694 ms)
+[2026.11.09-15.32.12:126][574]LogPlayLevel: PIE: World Init took: (0.002359s)
+[2026.11.09-15.32.12:127][574]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.11.09-15.32.12:127][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.09-15.32.12:127][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.09-15.32.12:127][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.09-15.32.12:127][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.09-15.32.12:127][574]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.09-15.32.12:127][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.09-15.32.12:127][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.09-15.32.12:127][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.09-15.32.12:127][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.09-15.32.12:127][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.09-15.32.12:127][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.09-15.32.12:129][574]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.09-15.32.12:183][574]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.11.09-15.32.12:183][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.09-15.32.12:183][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.09-15.32.12:183][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.09-15.32.12:183][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.11.09-15.32.12:183][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.11.09-15.32.12:185][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.11.09-15.32.12:185][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.11.09-15.32.12:185][574]LogInit: FAudioDevice initialized with ID 4.
+[2026.11.09-15.32.12:185][574]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_ThirdPerson'.
+[2026.11.09-15.32.12:185][574]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.11.09-15.32.12:189][574]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.09-15.32.12:191][574]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.11.09-10.32.12
+[2026.11.09-15.32.12:191][574]LogWorld: Bringing up level for play took: 0.001809
+[2026.11.09-15.32.12:194][574]PIE: Server logged in
+[2026.11.09-15.32.12:195][574]PIE: Play in editor total start time 0.113 seconds.
+[2026.11.09-15.32.12:232][575]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.09-15.32.19:844][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-15.32.19:845][478]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.11.09-15.32.19:845][478]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-15.32.19:845][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-15.32.19:845][478]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.11.09-15.32.19:848][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.09-15.32.19:849][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-15.32.19:861][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-15.32.19:861][478]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.11.09-15.32.19:861][478]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.11.09-15.32.19:863][478]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.11.09-15.32.19:870][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.09-15.32.19:929][479]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.11.09-15.32.28:674][274]Cmd: DELETE
+[2026.11.09-15.32.28:674][274]Cmd: ACTOR DELETE
+[2026.11.09-15.32.28:675][274]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2026.11.09-15.32.28:691][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.11.09-15.32.28:692][274]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.11.09-15.32.30:692][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-15.32.30:747][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.11.09-15.32.30:762][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.11.09-15.32.30:775][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.11.09-15.32.30:782][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.303 ms (total: 383.251 ms)
