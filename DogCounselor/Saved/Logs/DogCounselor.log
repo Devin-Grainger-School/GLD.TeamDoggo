@@ -1108,3 +1108,157 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.09-15.22.40:906][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.11.09-15.22.40:943][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
 [2026.11.09-15.22.40:946][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.09-15.22.41:031][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2026.11.09-15.22.41:501][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2026.11.09-15.22.41:501][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.11.09-15.22.41:503][  0]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.11.09-15.22.41:503][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.11.09-15.22.41:503][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.11.09-15.22.41:619][  0]LogWorldPartition: Display: WorldPartition initialize took 115.844 ms
+[2026.11.09-15.22.41:633][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.09-15.22.41:654][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.11.09-15.22.41:655][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.09-15.22.41:655][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.564ms to complete.
+[2026.11.09-15.22.41:664][  0]LogUnrealEdMisc: Total Editor Startup Time, took 29.029
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: ================================================
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Total job queries 2,388, among them cache hits 566 (23.70%), DDC hits 1,346 (56.37%), Duplicates 144 (6.03%)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Tracking 1,678 distinct input hashes that result in 1,014 distinct outputs (60.43%)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: RAM used: 9.39 MiB of 1.60 GiB budget. Usage: 0.57%
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Shaders Compiled: 332
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Jobs assigned 332, completed 332 (100%)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Average time worker was idle: 0.35 s
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 2.90 s, longest 9.62 s
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Job execution time: average 3.21 s, max 9.35 s
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 6.11 s, max 10.79
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Shader code size: total 3.285 MiB, numShaders 355, average 9.478 KiB, min 2.246 KiB, max 51.403 KiB
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.21 s
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Jobs were issued in 87 batches (only local compilation was used), average 3.82 jobs/batch
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Average processing rate: 20.48 jobs/sec
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Total thread time: 156.092 s
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Total thread preprocess time: 29.569 s
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Percentage time preprocessing: 18.94%
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Effective parallelization: 9.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.687833
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.13 sec, max 2.13 sec, min 2.13 sec)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.10 sec, max 2.10 sec, min 2.10 sec)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   12 times, average 1.05 sec, max 1.60 sec, min 0.82 sec)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display:                            TMaterialCHS_IS_FNoLightMapPolicy (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display:                              FRayTracingDecalMaterialCHS_AHS (compiled    2 times, average 0.98 sec, max 1.17 sec, min 0.79 sec)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display:                                                  FVelocityPS - 8.90% of total time (compiled   23 times, average 0.60 sec, max 0.73 sec, min 0.28 sec)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.06% of total time (compiled   12 times, average 1.05 sec, max 1.60 sec, min 0.82 sec)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.70% of total time (compiled   13 times, average 0.92 sec, max 1.47 sec, min 0.60 sec)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.63% of total time (compiled   26 times, average 0.46 sec, max 1.05 sec, min 0.22 sec)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.87% of total time (compiled   24 times, average 0.45 sec, max 0.56 sec, min 0.29 sec)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: === Material stats ===
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Materials Translated:    142
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Material Translation Only: 0.03 s (25%)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.11.09-15.22.41:666][  0]LogShaderCompilers: Display: ================================================
+[2026.11.09-15.22.41:728][  0]LogAssetRegistry: Display: Asset registry cache written as 69.5 MiB to ../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Intermediate/CachedAssetRegistry_*.bin
+[2026.11.09-15.22.41:771][  0]LogPlacementMode: Display: The Asset Registry is not yet fully loaded so some placeable classes might be missing.
+[2026.11.09-15.22.41:911][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-15.22.41:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-15.22.42:026][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-15.22.42:079][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-15.22.42:229][  0]LogPakFile: Initializing PakPlatformFile
+[2026.11.09-15.22.42:230][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2026.11.09-15.22.42:230][  0]LogPakFile: Initializing PakPlatformFile
+[2026.11.09-15.22.42:231][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2026.11.09-15.22.42:231][  0]LogPakFile: Initializing PakPlatformFile
+[2026.11.09-15.22.42:231][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2026.11.09-15.22.42:231][  0]LogPakFile: Initializing PakPlatformFile
+[2026.11.09-15.22.42:231][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2026.11.09-15.22.42:232][  0]LogPakFile: Initializing PakPlatformFile
+[2026.11.09-15.22.42:232][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2026.11.09-15.22.42:232][  0]LogPakFile: Initializing PakPlatformFile
+[2026.11.09-15.22.42:233][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2026.11.09-15.22.42:233][  0]LogPakFile: Initializing PakPlatformFile
+[2026.11.09-15.22.42:234][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2026.11.09-15.22.42:234][  0]LogPakFile: Initializing PakPlatformFile
+[2026.11.09-15.22.42:235][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2026.11.09-15.22.42:235][  0]LogPakFile: Initializing PakPlatformFile
+[2026.11.09-15.22.42:235][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2026.11.09-15.22.42:235][  0]LogPakFile: Initializing PakPlatformFile
+[2026.11.09-15.22.42:236][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2026.11.09-15.22.42:487][  0]LogSlate: Took 0.001062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.11.09-15.22.42:493][  0]LogSlate: Took 0.000784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.11.09-15.22.42:495][  0]LogSlate: Took 0.000684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.11.09-15.22.42:652][  0]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.09-15.22.42:833][  0]LogStall: Startup...
+[2026.11.09-15.22.42:835][  0]LogStall: Startup complete.
+[2026.11.09-15.22.42:858][  0]LogLoad: (Engine Initialization) Total time: 30.22 seconds
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: ================================================
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Total job queries 2,497, among them cache hits 569 (22.79%), DDC hits 1,448 (57.99%), Duplicates 148 (5.93%)
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Tracking 1,780 distinct input hashes that result in 1,112 distinct outputs (62.47%)
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: RAM used: 11.42 MiB of 1.60 GiB budget. Usage: 0.70%
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Shaders Compiled: 332
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Jobs assigned 332, completed 332 (100%)
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Average time worker was idle: 0.35 s
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 2.90 s, longest 9.62 s
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Job execution time: average 3.21 s, max 9.35 s
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 6.11 s, max 10.79
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Shader code size: total 3.285 MiB, numShaders 355, average 9.478 KiB, min 2.246 KiB, max 51.403 KiB
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.21 s
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Jobs were issued in 87 batches (only local compilation was used), average 3.82 jobs/batch
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Average processing rate: 20.48 jobs/sec
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Total thread time: 156.092 s
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Total thread preprocess time: 31.24 s
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Percentage time preprocessing: 20.01%
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Effective parallelization: 9.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.687833
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.13 sec, max 2.13 sec, min 2.13 sec)
+[2026.11.09-15.22.43:049][  0]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.10 sec, max 2.10 sec, min 2.10 sec)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   12 times, average 1.05 sec, max 1.60 sec, min 0.82 sec)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display:                            TMaterialCHS_IS_FNoLightMapPolicy (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display:                              FRayTracingDecalMaterialCHS_AHS (compiled    2 times, average 0.98 sec, max 1.17 sec, min 0.79 sec)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display:                                                  FVelocityPS - 8.90% of total time (compiled   23 times, average 0.60 sec, max 0.73 sec, min 0.28 sec)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.06% of total time (compiled   12 times, average 1.05 sec, max 1.60 sec, min 0.82 sec)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.70% of total time (compiled   13 times, average 0.92 sec, max 1.47 sec, min 0.60 sec)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.63% of total time (compiled   26 times, average 0.46 sec, max 1.05 sec, min 0.22 sec)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.87% of total time (compiled   24 times, average 0.45 sec, max 0.56 sec, min 0.29 sec)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display: === Material stats ===
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display: Materials Translated:    143
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display: Material Translation Only: 0.03 s (25%)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.11.09-15.22.43:050][  0]LogShaderCompilers: Display: ================================================
+[2026.11.09-15.22.43:110][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2026.11.09-15.22.43:110][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2026.11.09-15.22.43:149][  0]LogSlate: Took 0.000676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.11.09-15.22.43:197][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-15.22.43:198][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2026.11.09-15.22.43:252][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2026.11.09-15.22.43:257][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 58.830 ms
+[2026.11.09-15.22.43:454][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/' took 0.40s
+[2026.11.09-15.22.43:455][  1]LogAssetRegistry: AssetRegistryGather time 6.0467s: AssetDataDiscovery 0.0994s, AssetDataGather 5.9130s, StoreResults 0.0343s. Wall time 24.4880s.
+	NumCachedDirectories 0. NumUncachedDirectories 1591. NumCachedFiles 0. NumUncachedFiles 7611.
+	BackgroundTickInterruptions 0.
+[2026.11.09-15.22.43:477][  1]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2026.11.09-15.22.43:484][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2026.11.09-15.22.43:484][  1]LogSourceControl: Uncontrolled asset discovery started...
+[2026.11.09-15.22.43:662][  2]LogSourceControl: Uncontrolled asset discovery finished in 0.178141 seconds (Found 7587 uncontrolled assets)
+[2026.11.09-15.22.43:739][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 4.305098
+[2026.11.09-15.22.43:740][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2026.11.09-15.22.43:741][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4.540841
+[2026.11.09-15.22.44:638][  7]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.11.09-15.22.44:728][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.11.09-15.22.44:730][  8]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.11.09-15.22.44:805][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.598074
+[2026.11.09-15.22.44:807][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -1468595578
+[2026.11.09-15.22.44:807][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.598074, Update Interval: 333.223663
