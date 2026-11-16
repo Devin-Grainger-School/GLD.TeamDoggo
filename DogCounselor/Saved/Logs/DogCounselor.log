@@ -3016,3 +3016,352 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.16-14.08.34:927][155]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2026.11.16-14.08.34:927][155]LogShaderCompilers: Display: Material Cache Hits: 11 (7%)
 [2026.11.16-14.08.34:927][155]LogShaderCompilers: Display: ================================================
+[2026.11.16-14.09.56:339][  3]LogStreaming: Display: FlushAsyncLoading(478): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.09.56:411][  3]LogAssetTools: Warning: Failed to import 'C:\Users\dgraing1\Downloads\pembroke_castle_gltf/scene.bin'. Unknown extension 'bin'.
+[2026.11.16-14.09.56:599][  3]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Downloads/pembroke_castle_gltf/scene.gltf]
+[2026.11.16-14.09.58:264][  3]LogSlate: Window 'Import Content' being destroyed
+[2026.11.16-14.09.58:277][  3]LogInterchangeEngine: [Pending] Importing
+[2026.11.16-14.09.58:280][  3]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.16-14.09.58:280][  3]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Downloads/pembroke_castle_gltf/textures/material0_baseColor.jpeg]
+[2026.11.16-14.09.58:280][  3]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.16-14.09.58:280][  3]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Downloads/pembroke_castle_gltf/textures/material1_baseColor.jpeg]
+[2026.11.16-14.09.58:379][  4]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.09.58:428][  5]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.09.58:428][  5]LogInterchangeImport: JPEG file [C:/Users/dgraing1/Downloads/pembroke_castle_gltf/textures/material1_baseColor.jpeg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.11.16-14.09.58:428][  6]LogInterchangeImport: JPEG file [C:/Users/dgraing1/Downloads/pembroke_castle_gltf/textures/material0_baseColor.jpeg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.11.16-14.09.58:735][  6]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 707.351562 MiB 
+[2026.11.16-14.09.58:735][  6]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 707.351562 MiB 
+[2026.11.16-14.09.58:788][  7]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.09.59:097][ 10]LogTexture: Display: Building textures: /Game/Custom/pembroke_castle_gltf/textures/material0_baseColor.material0_baseColor (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.11.16-14.09.59:152][ 11]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.09.59:344][ 14]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.09.59:691][ 16]LogStreaming: Display: FlushAsyncLoading(553): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.09.59:717][ 17]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.09.59:767][ 18]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.09.59:933][ 19]LogStreaming: Display: FlushAsyncLoading(557): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.00:274][ 21]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 1503.890625 MiB 
+[2026.11.16-14.10.00:274][ 21]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 1503.902344 MiB 
+[2026.11.16-14.10.00:283][ 21]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.00:512][ 23]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.00:613][ 24]LogTexture: Display: Building textures: /Game/Custom/pembroke_castle_gltf/textures/material1_baseColor.material1_baseColor (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.01:185][ 26]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.01:190][ 26]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...castle_gltf/textures/material0_baseColor.jpeg]
+[2026.11.16-14.10.01:190][ 26]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.16-14.10.01:478][ 29]LogStreaming: Display: FlushAsyncLoading(564): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.01:774][ 31]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 1154.753906 MiB 
+[2026.11.16-14.10.01:774][ 31]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 1154.753906 MiB 
+[2026.11.16-14.10.01:810][ 32]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...castle_gltf/textures/material1_baseColor.jpeg]
+[2026.11.16-14.10.01:810][ 32]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.16-14.10.01:833][ 35]LogTexture: Display: Building textures: /Game/Custom/pembroke_castle_gltf/scene/Textures/material1_baseColor.material1_baseColor (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.02:555][ 86]LogStaticMesh: Display: Building static mesh Model_material0_0_820bfd98a4b51a2745d6dc9acd0341c3 (Required Memory Estimate: 170.851934 MB)...
+[2026.11.16-14.10.02:555][ 86]LogStaticMesh: Display: Building static mesh Model_material0_0_821919ae34ddb8ffc8830143c2d6b6ae (Required Memory Estimate: 149.989681 MB)...
+[2026.11.16-14.10.02:555][ 86]LogStaticMesh: Display: Building static mesh Model_material1_0 (Required Memory Estimate: 167.111074 MB)...
+[2026.11.16-14.10.02:555][ 86]LogStaticMesh: Display: Building static mesh Model_material0_0_46290bd464d82a91d82ccfb2f3cc53ed (Required Memory Estimate: 74.166564 MB)...
+[2026.11.16-14.10.02:555][ 86]LogStaticMesh: Display: Building static mesh Model_material1_0_99f6d4e602e343d061263bce1ee13113 (Required Memory Estimate: 20.108524 MB)...
+[2026.11.16-14.10.02:556][ 86]LogStaticMesh: Display: Building static mesh Model_material1_0_936bdb72aa07a928ed84a2c7284db792 (Required Memory Estimate: 167.26505 MB)...
+[2026.11.16-14.10.02:556][ 86]LogStaticMesh: Display: Building static mesh Model_material0_0_02ef94a5cb37da81462d46ee3db28734 (Required Memory Estimate: 165.364472 MB)...
+[2026.11.16-14.10.02:556][ 86]LogStaticMesh: Display: Building static mesh Model_material1_0_d2413494ee64da45e005cff7d9173fb5 (Required Memory Estimate: 155.862619 MB)...
+[2026.11.16-14.10.02:556][ 86]LogStaticMesh: Display: Building static mesh Model_material1_0_05e3e13d8f4b08932361916fecf4d76b (Required Memory Estimate: 145.965384 MB)...
+[2026.11.16-14.10.02:556][ 86]LogStaticMesh: Display: Building static mesh Model_material1_0_ab8cabfbfa3fe747631d5b1b88b6ec83 (Required Memory Estimate: 166.749531 MB)...
+[2026.11.16-14.10.02:624][ 93]LogStaticMesh: Adjacency [0.00s], tris: 13952, UVs 1
+[2026.11.16-14.10.02:639][ 94]LogStaticMesh: Clustering [0.01s]. Ratio: 1.018349
+[2026.11.16-14.10.02:641][ 95]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.10.02:812][111]LogStaticMesh: Adjacency [0.01s], tris: 101572, UVs 1
+[2026.11.16-14.10.02:816][111]LogStaticMesh: Adjacency [0.01s], tris: 104547, UVs 1
+[2026.11.16-14.10.02:842][114]LogStaticMesh: Adjacency [0.01s], tris: 108827, UVs 1
+[2026.11.16-14.10.02:848][114]LogStaticMesh: Adjacency [0.01s], tris: 115883, UVs 1
+[2026.11.16-14.10.02:862][116]LogStaticMesh: Reduce [0.22s]
+[2026.11.16-14.10.02:865][116]LogStaticMesh: Adjacency [0.02s], tris: 116835, UVs 1
+[2026.11.16-14.10.02:866][116]LogStaticMesh: Adjacency [0.01s], tris: 117228, UVs 1
+[2026.11.16-14.10.02:868][117]LogStaticMesh: Adjacency [0.01s], tris: 119946, UVs 1
+[2026.11.16-14.10.02:874][117]LogStaticMesh: Adjacency [0.01s], tris: 117103, UVs 1
+[2026.11.16-14.10.02:936][123]LogStaticMesh: Clustering [0.12s]. Ratio: 1.020808
+[2026.11.16-14.10.02:956][125]LogStaticMesh: Leaves [0.02s]
+[2026.11.16-14.10.02:960][126]LogStaticMesh: Clustering [0.15s]. Ratio: 1.018892
+[2026.11.16-14.10.02:974][127]LogStaticMesh: Leaves [0.01s]
+[2026.11.16-14.10.02:985][128]LogStaticMesh: Clustering [0.14s]. Ratio: 1.018764
+[2026.11.16-14.10.02:989][128]LogStaticMesh: Clustering [0.15s]. Ratio: 1.017626
+[2026.11.16-14.10.03:000][129]LogStaticMesh: Leaves [0.01s]
+[2026.11.16-14.10.03:003][129]LogStaticMesh: Leaves [0.01s]
+[2026.11.16-14.10.03:004][130]LogStaticMesh: Clustering [0.14s]. Ratio: 1.019651
+[2026.11.16-14.10.03:012][130]LogStaticMesh: Fallback [0.15s], num tris: 1940
+[2026.11.16-14.10.03:015][130]LogStaticMesh: Clustering [0.15s]. Ratio: 1.016429
+[2026.11.16-14.10.03:025][132]LogStaticMesh: Leaves [0.02s]
+[2026.11.16-14.10.03:025][132]LogStaticMesh: Clustering [0.15s]. Ratio: 1.017486
+[2026.11.16-14.10.03:029][132]LogStaticMesh: Leaves [0.01s]
+[2026.11.16-14.10.03:031][132]LogStaticMesh: Clustering [0.16s]. Ratio: 1.017058
+[2026.11.16-14.10.03:040][133]LogStaticMesh: Leaves [0.02s]
+[2026.11.16-14.10.03:048][133]LogStaticMesh: Leaves [0.02s]
+[2026.11.16-14.10.03:069][133]LogStaticMesh: Fallback [0.06s], num tris: 612
+[2026.11.16-14.10.03:093][133]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.03:093][133]LogStaticMesh:   Input: 227 Clusters, 28560 Triangles and 23961 Vertices
+[2026.11.16-14.10.03:093][133]LogStaticMesh:   Output without splits: 227 Clusters, 28560 Triangles and 24277 Vertices
+[2026.11.16-14.10.03:093][133]LogStaticMesh:   Output with splits: 227 Clusters, 28560 Triangles and 24277 Vertices
+[2026.11.16-14.10.03:094][133]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 227, Slow Path Clusters: 0, 1 Material: 227, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.03:111][135]LogStaticMesh: WritePages:
+[2026.11.16-14.10.03:111][135]LogStaticMesh:   Root: GPU size: 31440 bytes. 1 Pages. 31440.000 bytes per page (95.947% utilization).
+[2026.11.16-14.10.03:111][135]LogStaticMesh:   Streaming: GPU size: 289892 bytes. 3 Pages (3 with relative encoding). 96630.664 bytes per page (73.723% utilization).
+[2026.11.16-14.10.03:111][135]LogStaticMesh:   Page data disk size: 265572 bytes. Fixup data size: 992 bytes.
+[2026.11.16-14.10.03:111][135]LogStaticMesh:   Total GPU size: 321332 bytes, Total disk size: 266564 bytes.
+[2026.11.16-14.10.03:111][135]LogStaticMesh: Encode [0.04s]
+[2026.11.16-14.10.03:111][135]LogStaticMesh: NaniteBuild [0.49s]
+[2026.11.16-14.10.03:162][141]LogStaticMesh: Built static mesh [0.61s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material1_0_99f6d4e602e343d061263bce1ee13113.Model_material1_0_99f6d4e602e343d061263bce1ee13113
+[2026.11.16-14.10.03:188][144]LogStaticMesh: Adjacency [0.03s], tris: 51199, UVs 1
+[2026.11.16-14.10.03:265][149]LogStaticMesh: Clustering [0.08s]. Ratio: 1.020000
+[2026.11.16-14.10.03:273][150]LogStaticMesh: Leaves [0.01s]
+[2026.11.16-14.10.04:713][281]LogStaticMesh: Reduce [1.44s]
+[2026.11.16-14.10.04:774][288]LogStaticMesh: Fallback [0.06s], num tris: 1559
+[2026.11.16-14.10.04:788][290]LogStaticMesh: Fallback [0.01s], num tris: 386
+[2026.11.16-14.10.04:805][291]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.04:805][291]LogStaticMesh:   Input: 833 Clusters, 104690 Triangles and 97452 Vertices
+[2026.11.16-14.10.04:805][291]LogStaticMesh:   Output without splits: 833 Clusters, 104690 Triangles and 98983 Vertices
+[2026.11.16-14.10.04:805][291]LogStaticMesh:   Output with splits: 840 Clusters, 104690 Triangles and 98986 Vertices
+[2026.11.16-14.10.04:807][292]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 840, Slow Path Clusters: 0, 1 Material: 840, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.04:816][293]LogStaticMesh: WritePages:
+[2026.11.16-14.10.04:816][293]LogStaticMesh:   Root: GPU size: 32112 bytes. 1 Pages. 32112.000 bytes per page (97.998% utilization).
+[2026.11.16-14.10.04:816][293]LogStaticMesh:   Streaming: GPU size: 1253520 bytes. 10 Pages (10 with relative encoding). 125352.000 bytes per page (95.636% utilization).
+[2026.11.16-14.10.04:816][293]LogStaticMesh:   Page data disk size: 1012804 bytes. Fixup data size: 5104 bytes.
+[2026.11.16-14.10.04:816][293]LogStaticMesh:   Total GPU size: 1285632 bytes, Total disk size: 1017908 bytes.
+[2026.11.16-14.10.04:816][293]LogStaticMesh: Encode [0.03s]
+[2026.11.16-14.10.04:816][293]LogStaticMesh: NaniteBuild [1.66s]
+[2026.11.16-14.10.04:841][296]LogStaticMesh: Built static mesh [2.29s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material0_0_46290bd464d82a91d82ccfb2f3cc53ed.Model_material0_0_46290bd464d82a91d82ccfb2f3cc53ed
+[2026.11.16-14.10.04:846][296]LogStaticMesh: Reduce [1.87s]
+[2026.11.16-14.10.04:889][301]LogStaticMesh: Reduce [1.89s]
+[2026.11.16-14.10.04:923][305]LogStaticMesh: Reduce [1.97s]
+[2026.11.16-14.10.04:952][309]LogStaticMesh: Fallback [0.11s], num tris: 2068
+[2026.11.16-14.10.04:968][310]LogStaticMesh: Fallback [0.02s], num tris: 445
+[2026.11.16-14.10.04:983][312]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.04:983][312]LogStaticMesh:   Input: 1665 Clusters, 209323 Triangles and 168985 Vertices
+[2026.11.16-14.10.04:983][312]LogStaticMesh:   Output without splits: 1665 Clusters, 209323 Triangles and 172004 Vertices
+[2026.11.16-14.10.04:983][312]LogStaticMesh:   Output with splits: 1666 Clusters, 209323 Triangles and 172004 Vertices
+[2026.11.16-14.10.04:985][312]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1666, Slow Path Clusters: 0, 1 Material: 1666, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.04:995][313]LogStaticMesh: WritePages:
+[2026.11.16-14.10.04:996][313]LogStaticMesh:   Root: GPU size: 31924 bytes. 1 Pages. 31924.000 bytes per page (97.424% utilization).
+[2026.11.16-14.10.04:996][313]LogStaticMesh:   Streaming: GPU size: 2259836 bytes. 18 Pages (18 with relative encoding). 125546.445 bytes per page (95.784% utilization).
+[2026.11.16-14.10.04:996][313]LogStaticMesh:   Page data disk size: 1875888 bytes. Fixup data size: 9960 bytes.
+[2026.11.16-14.10.04:996][313]LogStaticMesh:   Total GPU size: 2291760 bytes, Total disk size: 1885848 bytes.
+[2026.11.16-14.10.04:996][313]LogStaticMesh: Encode [0.03s]
+[2026.11.16-14.10.04:996][313]LogStaticMesh: NaniteBuild [2.19s]
+[2026.11.16-14.10.04:997][313]LogStaticMesh: Fallback [0.11s], num tris: 2283
+[2026.11.16-14.10.04:999][314]LogStaticMesh: Fallback [0.08s], num tris: 2373
+[2026.11.16-14.10.05:018][316]LogStaticMesh: Reduce [1.99s]
+[2026.11.16-14.10.05:027][317]LogStaticMesh: Built static mesh [2.47s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material1_0_05e3e13d8f4b08932361916fecf4d76b.Model_material1_0_05e3e13d8f4b08932361916fecf4d76b
+[2026.11.16-14.10.05:028][317]LogStaticMesh: Reduce [2.00s]
+[2026.11.16-14.10.05:032][318]LogStaticMesh: Fallback [0.03s], num tris: 775
+[2026.11.16-14.10.05:038][318]LogStaticMesh: Fallback [0.04s], num tris: 765
+[2026.11.16-14.10.05:046][319]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.05:046][319]LogStaticMesh:   Input: 1772 Clusters, 222924 Triangles and 166160 Vertices
+[2026.11.16-14.10.05:047][319]LogStaticMesh:   Output without splits: 1772 Clusters, 222924 Triangles and 171219 Vertices
+[2026.11.16-14.10.05:047][319]LogStaticMesh:   Output with splits: 1773 Clusters, 222924 Triangles and 171219 Vertices
+[2026.11.16-14.10.05:052][319]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1773, Slow Path Clusters: 0, 1 Material: 1773, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.05:057][319]LogStaticMesh: Reduce [2.01s]
+[2026.11.16-14.10.05:059][319]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.05:059][319]LogStaticMesh:   Input: 1697 Clusters, 213226 Triangles and 167258 Vertices
+[2026.11.16-14.10.05:059][319]LogStaticMesh:   Output without splits: 1697 Clusters, 213226 Triangles and 170395 Vertices
+[2026.11.16-14.10.05:059][319]LogStaticMesh:   Output with splits: 1701 Clusters, 213226 Triangles and 170398 Vertices
+[2026.11.16-14.10.05:062][320]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1701, Slow Path Clusters: 0, 1 Material: 1701, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.05:067][320]LogStaticMesh: WritePages:
+[2026.11.16-14.10.05:067][320]LogStaticMesh:   Root: GPU size: 31628 bytes. 1 Pages. 31628.000 bytes per page (96.521% utilization).
+[2026.11.16-14.10.05:067][321]LogStaticMesh:   Streaming: GPU size: 2222808 bytes. 18 Pages (17 with relative encoding). 123489.336 bytes per page (94.215% utilization).
+[2026.11.16-14.10.05:067][321]LogStaticMesh:   Page data disk size: 1915900 bytes. Fixup data size: 10216 bytes.
+[2026.11.16-14.10.05:067][321]LogStaticMesh:   Total GPU size: 2254436 bytes, Total disk size: 1926116 bytes.
+[2026.11.16-14.10.05:068][321]LogStaticMesh: Encode [0.04s]
+[2026.11.16-14.10.05:068][321]LogStaticMesh: NaniteBuild [2.23s]
+[2026.11.16-14.10.05:072][321]LogStaticMesh: Reduce [2.07s]
+[2026.11.16-14.10.05:073][321]LogStaticMesh: WritePages:
+[2026.11.16-14.10.05:073][321]LogStaticMesh:   Root: GPU size: 32560 bytes. 1 Pages. 32560.000 bytes per page (99.365% utilization).
+[2026.11.16-14.10.05:073][321]LogStaticMesh:   Streaming: GPU size: 2238940 bytes. 18 Pages (18 with relative encoding). 124385.555 bytes per page (94.899% utilization).
+[2026.11.16-14.10.05:073][321]LogStaticMesh:   Page data disk size: 1895352 bytes. Fixup data size: 10104 bytes.
+[2026.11.16-14.10.05:073][321]LogStaticMesh:   Total GPU size: 2271500 bytes, Total disk size: 1905456 bytes.
+[2026.11.16-14.10.05:073][321]LogStaticMesh: Encode [0.04s]
+[2026.11.16-14.10.05:073][321]LogStaticMesh: NaniteBuild [2.27s]
+[2026.11.16-14.10.05:098][324]LogStaticMesh: Fallback [0.08s], num tris: 1984
+[2026.11.16-14.10.05:106][325]LogStaticMesh: Built static mesh [2.55s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material1_0_d2413494ee64da45e005cff7d9173fb5.Model_material1_0_d2413494ee64da45e005cff7d9173fb5
+[2026.11.16-14.10.05:116][326]LogStaticMesh: Reduce [2.08s]
+[2026.11.16-14.10.05:117][326]LogStaticMesh: Built static mesh [2.56s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material0_0_821919ae34ddb8ffc8830143c2d6b6ae.Model_material0_0_821919ae34ddb8ffc8830143c2d6b6ae
+[2026.11.16-14.10.05:119][326]LogStaticMesh: Fallback [0.02s], num tris: 467
+[2026.11.16-14.10.05:126][327]LogStaticMesh: Fallback [0.10s], num tris: 1471
+[2026.11.16-14.10.05:133][328]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.05:133][328]LogStaticMesh:   Input: 1907 Clusters, 240112 Triangles and 168497 Vertices
+[2026.11.16-14.10.05:133][328]LogStaticMesh:   Output without splits: 1907 Clusters, 240112 Triangles and 174643 Vertices
+[2026.11.16-14.10.05:133][328]LogStaticMesh:   Output with splits: 1907 Clusters, 240112 Triangles and 174643 Vertices
+[2026.11.16-14.10.05:136][329]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1907, Slow Path Clusters: 0, 1 Material: 1907, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.05:147][330]LogStaticMesh: WritePages:
+[2026.11.16-14.10.05:147][330]LogStaticMesh:   Root: GPU size: 31528 bytes. 1 Pages. 31528.000 bytes per page (96.216% utilization).
+[2026.11.16-14.10.05:147][330]LogStaticMesh:   Streaming: GPU size: 2229412 bytes. 18 Pages (18 with relative encoding). 123856.219 bytes per page (94.495% utilization).
+[2026.11.16-14.10.05:147][330]LogStaticMesh:   Page data disk size: 1950280 bytes. Fixup data size: 11144 bytes.
+[2026.11.16-14.10.05:147][330]LogStaticMesh:   Total GPU size: 2260940 bytes, Total disk size: 1961424 bytes.
+[2026.11.16-14.10.05:147][330]LogStaticMesh: Encode [0.03s]
+[2026.11.16-14.10.05:147][330]LogStaticMesh: NaniteBuild [2.30s]
+[2026.11.16-14.10.05:152][330]LogStaticMesh: Fallback [0.03s], num tris: 327
+[2026.11.16-14.10.05:162][332]LogStaticMesh: Fallback [0.09s], num tris: 1961
+[2026.11.16-14.10.05:167][332]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.05:167][332]LogStaticMesh:   Input: 1904 Clusters, 239398 Triangles and 168202 Vertices
+[2026.11.16-14.10.05:167][332]LogStaticMesh:   Output without splits: 1904 Clusters, 239398 Triangles and 174551 Vertices
+[2026.11.16-14.10.05:167][332]LogStaticMesh:   Output with splits: 1904 Clusters, 239398 Triangles and 174551 Vertices
+[2026.11.16-14.10.05:169][332]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1904, Slow Path Clusters: 0, 1 Material: 1904, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.05:181][334]LogStaticMesh: Built static mesh [2.63s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material1_0_ab8cabfbfa3fe747631d5b1b88b6ec83.Model_material1_0_ab8cabfbfa3fe747631d5b1b88b6ec83
+[2026.11.16-14.10.05:182][334]LogStaticMesh: WritePages:
+[2026.11.16-14.10.05:182][334]LogStaticMesh:   Root: GPU size: 32596 bytes. 1 Pages. 32596.000 bytes per page (99.475% utilization).
+[2026.11.16-14.10.05:182][334]LogStaticMesh:   Streaming: GPU size: 2231188 bytes. 18 Pages (18 with relative encoding). 123954.891 bytes per page (94.570% utilization).
+[2026.11.16-14.10.05:182][334]LogStaticMesh:   Page data disk size: 1952308 bytes. Fixup data size: 10800 bytes.
+[2026.11.16-14.10.05:182][334]LogStaticMesh:   Total GPU size: 2263784 bytes, Total disk size: 1963108 bytes.
+[2026.11.16-14.10.05:182][334]LogStaticMesh: Encode [0.03s]
+[2026.11.16-14.10.05:183][334]LogStaticMesh: NaniteBuild [2.33s]
+[2026.11.16-14.10.05:190][335]LogStaticMesh: Fallback [0.07s], num tris: 1717
+[2026.11.16-14.10.05:191][335]LogStaticMesh: Fallback [0.13s], num tris: 3101
+[2026.11.16-14.10.05:208][337]LogStaticMesh: Fallback [0.05s], num tris: 750
+[2026.11.16-14.10.05:209][337]LogStaticMesh: Built static mesh [2.65s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material1_0_936bdb72aa07a928ed84a2c7284db792.Model_material1_0_936bdb72aa07a928ed84a2c7284db792
+[2026.11.16-14.10.05:214][338]LogStaticMesh: Fallback [0.02s], num tris: 396
+[2026.11.16-14.10.05:225][339]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.05:225][339]LogStaticMesh:   Input: 1881 Clusters, 236500 Triangles and 168337 Vertices
+[2026.11.16-14.10.05:225][339]LogStaticMesh:   Output without splits: 1881 Clusters, 236500 Triangles and 173630 Vertices
+[2026.11.16-14.10.05:225][339]LogStaticMesh:   Output with splits: 1881 Clusters, 236500 Triangles and 173630 Vertices
+[2026.11.16-14.10.05:230][339]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1881, Slow Path Clusters: 0, 1 Material: 1881, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.05:235][340]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.05:235][340]LogStaticMesh:   Input: 1920 Clusters, 241625 Triangles and 169595 Vertices
+[2026.11.16-14.10.05:235][340]LogStaticMesh:   Output without splits: 1920 Clusters, 241625 Triangles and 176083 Vertices
+[2026.11.16-14.10.05:235][340]LogStaticMesh:   Output with splits: 1920 Clusters, 241625 Triangles and 176083 Vertices
+[2026.11.16-14.10.05:236][340]LogStaticMesh: Fallback [0.05s], num tris: 1099
+[2026.11.16-14.10.05:237][340]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1920, Slow Path Clusters: 0, 1 Material: 1920, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.05:243][340]LogStaticMesh: WritePages:
+[2026.11.16-14.10.05:243][340]LogStaticMesh:   Root: GPU size: 32052 bytes. 1 Pages. 32052.000 bytes per page (97.815% utilization).
+[2026.11.16-14.10.05:243][340]LogStaticMesh:   Streaming: GPU size: 2244888 bytes. 18 Pages (18 with relative encoding). 124716.000 bytes per page (95.151% utilization).
+[2026.11.16-14.10.05:243][340]LogStaticMesh:   Page data disk size: 1947928 bytes. Fixup data size: 10840 bytes.
+[2026.11.16-14.10.05:243][340]LogStaticMesh:   Total GPU size: 2276940 bytes, Total disk size: 1958768 bytes.
+[2026.11.16-14.10.05:243][340]LogStaticMesh: Encode [0.04s]
+[2026.11.16-14.10.05:245][340]LogStaticMesh: NaniteBuild [2.40s]
+[2026.11.16-14.10.05:249][340]LogStaticMesh: WritePages:
+[2026.11.16-14.10.05:249][340]LogStaticMesh:   Root: GPU size: 32164 bytes. 1 Pages. 32164.000 bytes per page (98.157% utilization).
+[2026.11.16-14.10.05:249][340]LogStaticMesh:   Streaming: GPU size: 2247728 bytes. 18 Pages (18 with relative encoding). 124873.781 bytes per page (95.271% utilization).
+[2026.11.16-14.10.05:249][340]LogStaticMesh:   Page data disk size: 1965188 bytes. Fixup data size: 11024 bytes.
+[2026.11.16-14.10.05:250][340]LogStaticMesh:   Total GPU size: 2279892 bytes, Total disk size: 1976212 bytes.
+[2026.11.16-14.10.05:250][340]LogStaticMesh: Encode [0.04s]
+[2026.11.16-14.10.05:250][340]LogStaticMesh: NaniteBuild [2.39s]
+[2026.11.16-14.10.05:257][340]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.05:257][340]LogStaticMesh:   Input: 1952 Clusters, 245623 Triangles and 169192 Vertices
+[2026.11.16-14.10.05:257][340]LogStaticMesh:   Output without splits: 1952 Clusters, 245623 Triangles and 174268 Vertices
+[2026.11.16-14.10.05:257][340]LogStaticMesh:   Output with splits: 1952 Clusters, 245623 Triangles and 174268 Vertices
+[2026.11.16-14.10.05:258][341]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1952, Slow Path Clusters: 0, 1 Material: 1952, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.05:268][342]LogStaticMesh: WritePages:
+[2026.11.16-14.10.05:269][342]LogStaticMesh:   Root: GPU size: 31784 bytes. 1 Pages. 31784.000 bytes per page (96.997% utilization).
+[2026.11.16-14.10.05:269][342]LogStaticMesh:   Streaming: GPU size: 2275596 bytes. 18 Pages (18 with relative encoding). 126422.000 bytes per page (96.452% utilization).
+[2026.11.16-14.10.05:269][342]LogStaticMesh:   Page data disk size: 1987800 bytes. Fixup data size: 11184 bytes.
+[2026.11.16-14.10.05:269][342]LogStaticMesh:   Total GPU size: 2307380 bytes, Total disk size: 1998984 bytes.
+[2026.11.16-14.10.05:269][342]LogStaticMesh: Encode [0.03s]
+[2026.11.16-14.10.05:269][342]LogStaticMesh: NaniteBuild [2.41s]
+[2026.11.16-14.10.05:280][343]LogStaticMesh: Built static mesh [2.73s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material1_0.Model_material1_0
+[2026.11.16-14.10.05:295][345]LogStaticMesh: Built static mesh [2.74s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material0_0_02ef94a5cb37da81462d46ee3db28734.Model_material0_0_02ef94a5cb37da81462d46ee3db28734
+[2026.11.16-14.10.05:338][350]LogStaticMesh: Built static mesh [2.78s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material0_0_820bfd98a4b51a2745d6dc9acd0341c3.Model_material0_0_820bfd98a4b51a2745d6dc9acd0341c3
+[2026.11.16-14.10.05:363][353]LogStaticMesh: Display: Building static mesh Model_material0_0 (Required Memory Estimate: 168.71766 MB)...
+[2026.11.16-14.10.05:462][365]LogStaticMesh: Display: Building static mesh Model_material0_0_27da86c9fd5e339e0ad6a633ce598cdf (Required Memory Estimate: 167.0513 MB)...
+[2026.11.16-14.10.05:462][365]LogStaticMesh: Display: Building static mesh Model_material0_0_6be278dd3fad09721574a6ccf1c0495c (Required Memory Estimate: 168.594179 MB)...
+[2026.11.16-14.10.05:506][370]LogStaticMesh: Display: Building static mesh Model_material1_0_0668b9afdaa5bf228152da2b4d94f24b (Required Memory Estimate: 145.743249 MB)...
+[2026.11.16-14.10.05:593][380]LogStaticMesh: Adjacency [0.01s], tris: 118290, UVs 1
+[2026.11.16-14.10.05:645][386]LogStaticMesh: Clustering [0.05s]. Ratio: 1.019459
+[2026.11.16-14.10.05:657][388]LogStaticMesh: Leaves [0.01s]
+[2026.11.16-14.10.05:745][397]LogStaticMesh: Adjacency [0.05s], tris: 101425, UVs 1
+[2026.11.16-14.10.05:755][398]LogStaticMesh: Adjacency [0.08s], tris: 118238, UVs 1
+[2026.11.16-14.10.05:755][399]LogStaticMesh: Adjacency [0.08s], tris: 117064, UVs 1
+[2026.11.16-14.10.05:828][407]LogStaticMesh: Clustering [0.07s]. Ratio: 1.018398
+[2026.11.16-14.10.05:835][408]LogStaticMesh: Clustering [0.08s]. Ratio: 1.016393
+[2026.11.16-14.10.05:843][409]LogStaticMesh: Leaves [0.01s]
+[2026.11.16-14.10.05:852][409]LogStaticMesh: Clustering [0.11s]. Ratio: 1.020177
+[2026.11.16-14.10.05:853][409]LogStaticMesh: Leaves [0.02s]
+[2026.11.16-14.10.05:875][411]LogStaticMesh: Leaves [0.02s]
+[2026.11.16-14.10.06:629][494]LogStaticMesh: Reduce [0.97s]
+[2026.11.16-14.10.06:682][500]LogStaticMesh: Fallback [0.05s], num tris: 1838
+[2026.11.16-14.10.06:684][500]LogStaticMesh: Reduce [0.84s]
+[2026.11.16-14.10.06:698][502]LogStaticMesh: Fallback [0.02s], num tris: 504
+[2026.11.16-14.10.06:708][503]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.06:708][503]LogStaticMesh:   Input: 1928 Clusters, 242341 Triangles and 168010 Vertices
+[2026.11.16-14.10.06:708][503]LogStaticMesh:   Output without splits: 1928 Clusters, 242341 Triangles and 174593 Vertices
+[2026.11.16-14.10.06:708][503]LogStaticMesh:   Output with splits: 1928 Clusters, 242341 Triangles and 174593 Vertices
+[2026.11.16-14.10.06:709][503]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1928, Slow Path Clusters: 0, 1 Material: 1928, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.06:717][504]LogStaticMesh: WritePages:
+[2026.11.16-14.10.06:717][504]LogStaticMesh:   Root: GPU size: 32320 bytes. 1 Pages. 32320.000 bytes per page (98.633% utilization).
+[2026.11.16-14.10.06:717][504]LogStaticMesh:   Streaming: GPU size: 2225420 bytes. 18 Pages (18 with relative encoding). 123634.445 bytes per page (94.326% utilization).
+[2026.11.16-14.10.06:717][504]LogStaticMesh:   Page data disk size: 1956404 bytes. Fixup data size: 11056 bytes.
+[2026.11.16-14.10.06:717][504]LogStaticMesh:   Total GPU size: 2257740 bytes, Total disk size: 1967460 bytes.
+[2026.11.16-14.10.06:717][504]LogStaticMesh: Encode [0.02s]
+[2026.11.16-14.10.06:717][504]LogStaticMesh: NaniteBuild [1.13s]
+[2026.11.16-14.10.06:744][507]LogStaticMesh: Built static mesh [1.38s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material0_0.Model_material0_0
+[2026.11.16-14.10.06:746][508]LogStaticMesh: Fallback [0.06s], num tris: 2181
+[2026.11.16-14.10.06:760][510]LogStaticMesh: Fallback [0.02s], num tris: 561
+[2026.11.16-14.10.06:773][511]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.06:773][511]LogStaticMesh:   Input: 1931 Clusters, 242925 Triangles and 169200 Vertices
+[2026.11.16-14.10.06:773][511]LogStaticMesh:   Output without splits: 1931 Clusters, 242925 Triangles and 175016 Vertices
+[2026.11.16-14.10.06:773][511]LogStaticMesh:   Output with splits: 1931 Clusters, 242925 Triangles and 175016 Vertices
+[2026.11.16-14.10.06:775][511]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1931, Slow Path Clusters: 0, 1 Material: 1931, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.06:783][512]LogStaticMesh: WritePages:
+[2026.11.16-14.10.06:783][512]LogStaticMesh:   Root: GPU size: 31144 bytes. 1 Pages. 31144.000 bytes per page (95.044% utilization).
+[2026.11.16-14.10.06:783][512]LogStaticMesh:   Streaming: GPU size: 2259704 bytes. 18 Pages (18 with relative encoding). 125539.109 bytes per page (95.779% utilization).
+[2026.11.16-14.10.06:783][512]LogStaticMesh:   Page data disk size: 1964948 bytes. Fixup data size: 10968 bytes.
+[2026.11.16-14.10.06:783][512]LogStaticMesh:   Total GPU size: 2290848 bytes, Total disk size: 1975916 bytes.
+[2026.11.16-14.10.06:783][512]LogStaticMesh: Encode [0.02s]
+[2026.11.16-14.10.06:783][512]LogStaticMesh: NaniteBuild [1.11s]
+[2026.11.16-14.10.06:802][514]LogStaticMesh: Reduce [0.93s]
+[2026.11.16-14.10.06:818][516]LogStaticMesh: Built static mesh [1.36s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material0_0_6be278dd3fad09721574a6ccf1c0495c.Model_material0_0_6be278dd3fad09721574a6ccf1c0495c
+[2026.11.16-14.10.06:870][522]LogStaticMesh: Fallback [0.07s], num tris: 2372
+[2026.11.16-14.10.06:903][526]LogStaticMesh: Fallback [0.03s], num tris: 768
+[2026.11.16-14.10.06:916][528]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.06:916][528]LogStaticMesh:   Input: 1663 Clusters, 208894 Triangles and 168505 Vertices
+[2026.11.16-14.10.06:916][528]LogStaticMesh:   Output without splits: 1663 Clusters, 208894 Triangles and 171793 Vertices
+[2026.11.16-14.10.06:916][528]LogStaticMesh:   Output with splits: 1666 Clusters, 208894 Triangles and 171795 Vertices
+[2026.11.16-14.10.06:918][528]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1666, Slow Path Clusters: 0, 1 Material: 1666, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.06:923][529]LogStaticMesh: Reduce [1.07s]
+[2026.11.16-14.10.06:925][529]LogStaticMesh: WritePages:
+[2026.11.16-14.10.06:925][529]LogStaticMesh:   Root: GPU size: 31968 bytes. 1 Pages. 31968.000 bytes per page (97.559% utilization).
+[2026.11.16-14.10.06:925][529]LogStaticMesh:   Streaming: GPU size: 2231484 bytes. 18 Pages (18 with relative encoding). 123971.336 bytes per page (94.583% utilization).
+[2026.11.16-14.10.06:925][529]LogStaticMesh:   Page data disk size: 1859996 bytes. Fixup data size: 9752 bytes.
+[2026.11.16-14.10.06:925][529]LogStaticMesh:   Total GPU size: 2263452 bytes, Total disk size: 1869748 bytes.
+[2026.11.16-14.10.06:925][529]LogStaticMesh: Encode [0.02s]
+[2026.11.16-14.10.06:926][529]LogStaticMesh: NaniteBuild [1.23s]
+[2026.11.16-14.10.06:962][533]LogStaticMesh: Built static mesh [1.46s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material1_0_0668b9afdaa5bf228152da2b4d94f24b.Model_material1_0_0668b9afdaa5bf228152da2b4d94f24b
+[2026.11.16-14.10.06:972][534]LogStaticMesh: Fallback [0.05s], num tris: 1387
+[2026.11.16-14.10.06:980][535]LogStaticMesh: Fallback [0.01s], num tris: 358
+[2026.11.16-14.10.06:992][537]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.10.06:992][537]LogStaticMesh:   Input: 1911 Clusters, 240576 Triangles and 169221 Vertices
+[2026.11.16-14.10.06:992][537]LogStaticMesh:   Output without splits: 1911 Clusters, 240576 Triangles and 175366 Vertices
+[2026.11.16-14.10.06:992][537]LogStaticMesh:   Output with splits: 1911 Clusters, 240576 Triangles and 175366 Vertices
+[2026.11.16-14.10.06:994][537]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1911, Slow Path Clusters: 0, 1 Material: 1911, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.10.07:001][538]LogStaticMesh: WritePages:
+[2026.11.16-14.10.07:002][538]LogStaticMesh:   Root: GPU size: 30964 bytes. 1 Pages. 30964.000 bytes per page (94.495% utilization).
+[2026.11.16-14.10.07:002][538]LogStaticMesh:   Streaming: GPU size: 2241356 bytes. 18 Pages (18 with relative encoding). 124519.781 bytes per page (95.001% utilization).
+[2026.11.16-14.10.07:002][538]LogStaticMesh:   Page data disk size: 1971392 bytes. Fixup data size: 11112 bytes.
+[2026.11.16-14.10.07:002][538]LogStaticMesh:   Total GPU size: 2272320 bytes, Total disk size: 1982504 bytes.
+[2026.11.16-14.10.07:002][538]LogStaticMesh: Encode [0.02s]
+[2026.11.16-14.10.07:002][538]LogStaticMesh: NaniteBuild [1.32s]
+[2026.11.16-14.10.07:021][540]LogStaticMesh: Built static mesh [1.56s] /Game/Custom/pembroke_castle_gltf/scene/StaticMeshes/Model_material0_0_27da86c9fd5e339e0ad6a633ce598cdf.Model_material0_0_27da86c9fd5e339e0ad6a633ce598cdf
+[2026.11.16-14.10.07:218][564]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 1039.402344 MiB 
+[2026.11.16-14.10.07:218][564]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 1039.402344 MiB 
+[2026.11.16-14.10.07:295][573]LogTexture: Display: Building textures: /Game/Custom/pembroke_castle_gltf/scene/Textures/material0_baseColor.material0_baseColor (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.10:221][649]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x112 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 26% occupied, 0 triangles, Model_material1_0_99f6d4e602e343d061263bce1ee13113
+[2026.11.16-14.10.10:876][649]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 21% occupied, 0 triangles, Model_material0_0_6be278dd3fad09721574a6ccf1c0495c
+[2026.11.16-14.10.10:888][649]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 19% occupied, 0 triangles, Model_material0_0
+[2026.11.16-14.10.11:128][649]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x126 sparse distance field, 1.1Mb total, 0.1Mb always loaded, 30% occupied, 0 triangles, Model_material1_0_0668b9afdaa5bf228152da2b4d94f24b
+[2026.11.16-14.10.11:192][649]LogMeshUtilities: Finished distance field build in 3.0s - 126x126x126 sparse distance field, 0.9Mb total, 0.1Mb always loaded, 21% occupied, 0 triangles, Model_material1_0_ab8cabfbfa3fe747631d5b1b88b6ec83
+[2026.11.16-14.10.11:440][649]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.0Mb total, 0.1Mb always loaded, 24% occupied, 0 triangles, Model_material1_0
+[2026.11.16-14.10.11:450][649]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 35% occupied, 0 triangles, Model_material1_0_d2413494ee64da45e005cff7d9173fb5
+[2026.11.16-14.10.11:461][649]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 0 triangles, Model_material0_0_46290bd464d82a91d82ccfb2f3cc53ed
+[2026.11.16-14.10.11:558][649]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 1.1Mb total, 0.1Mb always loaded, 29% occupied, 0 triangles, Model_material0_0_820bfd98a4b51a2745d6dc9acd0341c3
+[2026.11.16-14.10.11:562][649]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 1.0Mb total, 0.1Mb always loaded, 26% occupied, 0 triangles, Model_material0_0_02ef94a5cb37da81462d46ee3db28734
+[2026.11.16-14.10.11:591][649]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 41% occupied, 0 triangles, Model_material1_0_05e3e13d8f4b08932361916fecf4d76b
+[2026.11.16-14.10.11:604][649]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 35% occupied, 0 triangles, Model_material1_0_936bdb72aa07a928ed84a2c7284db792
+[2026.11.16-14.10.11:619][649]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 36% occupied, 0 triangles, Model_material0_0_821919ae34ddb8ffc8830143c2d6b6ae
+[2026.11.16-14.10.12:166][650]LogAutomationController: Ignoring very large delta of 3.94 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.11.16-14.10.12:191][650]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...pembroke_castle_gltf/scene.gltf]
+[2026.11.16-14.10.12:195][650]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.11.16-14.10.12:195][650]LogInterchangeEngine: [Success] Import Done
+[2026.11.16-14.10.14:487][745]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x112 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 26% occupied, 0 triangles, Model_material1_0_99f6d4e602e343d061263bce1ee13113
+[2026.11.16-14.10.14:778][746]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 19% occupied, 0 triangles, Model_material0_0
+[2026.11.16-14.10.14:806][746]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 0.9Mb total, 0.1Mb always loaded, 21% occupied, 0 triangles, Model_material1_0_ab8cabfbfa3fe747631d5b1b88b6ec83
+[2026.11.16-14.10.14:980][747]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 0 triangles, Model_material0_0_46290bd464d82a91d82ccfb2f3cc53ed
+[2026.11.16-14.10.15:100][747]LogMeshUtilities: Finished distance field build in 3.0s - 126x126x126 sparse distance field, 1.0Mb total, 0.1Mb always loaded, 24% occupied, 0 triangles, Model_material1_0
+[2026.11.16-14.10.15:112][747]LogMeshUtilities: Finished distance field build in 3.0s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 35% occupied, 0 triangles, Model_material1_0_d2413494ee64da45e005cff7d9173fb5
+[2026.11.16-14.10.15:199][748]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x126 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 21% occupied, 0 triangles, Model_material0_0_6be278dd3fad09721574a6ccf1c0495c
+[2026.11.16-14.10.15:247][748]LogMeshUtilities: Finished distance field build in 3.1s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 35% occupied, 0 triangles, Model_material1_0_936bdb72aa07a928ed84a2c7284db792
+[2026.11.16-14.10.15:263][748]LogMeshUtilities: Finished distance field build in 3.1s - 126x126x126 sparse distance field, 1.1Mb total, 0.1Mb always loaded, 29% occupied, 0 triangles, Model_material0_0_820bfd98a4b51a2745d6dc9acd0341c3
+[2026.11.16-14.10.15:281][748]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 36% occupied, 0 triangles, Model_material0_0_821919ae34ddb8ffc8830143c2d6b6ae
+[2026.11.16-14.10.15:326][748]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 41% occupied, 0 triangles, Model_material1_0_05e3e13d8f4b08932361916fecf4d76b
+[2026.11.16-14.10.15:351][748]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 34% occupied, 0 triangles, Model_material0_0_27da86c9fd5e339e0ad6a633ce598cdf
