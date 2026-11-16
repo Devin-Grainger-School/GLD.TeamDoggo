@@ -3365,3 +3365,448 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.16-14.10.15:281][748]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 36% occupied, 0 triangles, Model_material0_0_821919ae34ddb8ffc8830143c2d6b6ae
 [2026.11.16-14.10.15:326][748]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 41% occupied, 0 triangles, Model_material1_0_05e3e13d8f4b08932361916fecf4d76b
 [2026.11.16-14.10.15:351][748]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 34% occupied, 0 triangles, Model_material0_0_27da86c9fd5e339e0ad6a633ce598cdf
+[2026.11.16-14.10.36:258][ 24]LogStreaming: Display: FlushAsyncLoading(565): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.36:319][ 24]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dgraing1/Downloads/mega_detailed_castle_mansion_4k_glb/Mega Detailed Castle-Mansion 4K GLB/Mega Detailed Castle-Mansion 4K.glb]
+[2026.11.16-14.10.38:581][ 24]LogSlate: Window 'Import Content' being destroyed
+[2026.11.16-14.10.38:611][ 24]LogInterchangeEngine: [Pending] Importing
+[2026.11.16-14.10.38:648][ 24]LogAutomationController: Ignoring very large delta of 2.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.11.16-14.10.38:831][ 26]LogStreaming: Display: FlushAsyncLoading(566): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.38:861][ 27]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.11.16-14.10.38:861][ 27]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.11.16-14.10.38:869][ 27]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.11.16-14.10.38:869][ 27]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.11.16-14.10.38:978][ 27]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.11.16-14.10.38:988][ 27]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.11.16-14.10.39:034][ 27]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.39:100][ 28]LogStreaming: Display: FlushAsyncLoading(609): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.39:117][ 29]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.11.16-14.10.39:550][ 29]LogStreaming: Display: FlushAsyncLoading(611): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.39:620][ 31]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.39:680][ 32]LogStreaming: Display: FlushAsyncLoading(628): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.39:737][ 33]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.46:671][293]LogAutomationController: Ignoring very large delta of 2.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.11.16-14.10.46:672][293]LogStreaming: Display: FlushAsyncLoading(630): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-14.10.46:849][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Mossy_Stone_Wall_ujyjbehqx_4K_BaseColor.MI_Mossy_Stone_Wall_ujyjbehqx_4K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:850][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Mossy_Stone_Wall_ujyjbehqx_4K_MetallicRoughness.MI_Mossy_Stone_Wall_ujyjbehqx_4K_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:858][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Patterned_Marble_Tiles_vichajxv_4K_Normal.MI_Patterned_Marble_Tiles_vichajxv_4K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:859][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Patterned_Marble_Tiles_vichajxv_4K_Occlusion.MI_Patterned_Marble_Tiles_vichajxv_4K_Occlusion (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 119.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:860][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Dirty_Painted_Wall_vlxncah_4K_BaseColor.MI_Dirty_Painted_Wall_vlxncah_4K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:861][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Dirty_Painted_Wall_vlxncah_4K_MetallicRoughness.MI_Dirty_Painted_Wall_vlxncah_4K_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:881][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Dirty_Painted_Wall_vlxncah_4K_Occlusion.MI_Dirty_Painted_Wall_vlxncah_4K_Occlusion (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 119.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:882][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Dirty_Painted_Wall_vlxncah_4K_Normal.MI_Dirty_Painted_Wall_vlxncah_4K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:888][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Mossy_Slate_Roof_Tiles_ujzlef1n_4K_BaseColor.MI_Mossy_Slate_Roof_Tiles_ujzlef1n_4K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:889][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Mossy_Slate_Roof_Tiles_ujzlef1n_4K_MetallicRoughness.MI_Mossy_Slate_Roof_Tiles_ujzlef1n_4K_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:895][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Mossy_Slate_Roof_Tiles_ujzlef1n_4K_Occlusion.MI_Mossy_Slate_Roof_Tiles_ujzlef1n_4K_Occlusion (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 119.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:896][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Mossy_Slate_Roof_Tiles_ujzlef1n_4K_Normal.MI_Mossy_Slate_Roof_Tiles_ujzlef1n_4K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:916][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Mossy_Stone_Wall_ujyjbehqx_4K_Normal.MI_Mossy_Stone_Wall_ujyjbehqx_4K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:917][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Modular_Wooden_Door_ugywdfqdw_4K_MetallicRoughness.MI_Modular_Wooden_Door_ugywdfqdw_4K_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:925][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Modular_Wooden_Door_ugywdfqdw_4K_Normal.MI_Modular_Wooden_Door_ugywdfqdw_4K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:926][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Modular_Building_Window_vjqnbatdw_4K_BaseColor.MI_Modular_Building_Window_vjqnbatdw_4K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:931][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Modular_Building_Window_vjqnbatdw_4K_MetallicRoughness.MI_Modular_Building_Window_vjqnbatdw_4K_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:938][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Modular_Building_Window_vjqnbatdw_4K_Normal.MI_Modular_Building_Window_vjqnbatdw_4K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:949][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Modular_Iron_Fence_xcwofizdw_4K_BaseColor.MI_Modular_Iron_Fence_xcwofizdw_4K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:949][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Modular_Iron_Fence_xcwofizdw_4K_MetallicRoughness.MI_Modular_Iron_Fence_xcwofizdw_4K_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:955][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Mossy_Stone_Wall_ujyjbehqx_4K_Occlusion.MI_Mossy_Stone_Wall_ujyjbehqx_4K_Occlusion (BGRA8, 1x1 x1x1x1) (Required Memory Estimate: 1.000024 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:957][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Modular_Iron_Fence_xcwofizdw_4K_Normal.MI_Modular_Iron_Fence_xcwofizdw_4K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:957][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Concrete_Floor_wirkdfrn_4K_MetallicRoughness.MI_Concrete_Floor_wirkdfrn_4K_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:958][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Concrete_Floor_wirkdfrn_4K_BaseColor.MI_Concrete_Floor_wirkdfrn_4K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:984][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Concrete_Floor_wirkdfrn_4K_Normal.MI_Concrete_Floor_wirkdfrn_4K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:984][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Old_Stone_Beam_Wall_viclafs_4K_MetallicRoughness.MI_Old_Stone_Beam_Wall_viclafs_4K_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:984][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Old_Stone_Beam_Wall_viclafs_4K_BaseColor.MI_Old_Stone_Beam_Wall_viclafs_4K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:989][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Old_Stone_Beam_Wall_viclafs_4K_Normal.MI_Old_Stone_Beam_Wall_viclafs_4K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:993][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Old_Stone_Beam_Wall_viclafs_4K_Occlusion.MI_Old_Stone_Beam_Wall_viclafs_4K_Occlusion (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 119.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.46:995][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Ancient_Temple_Stairs_tj1qafrfa_4K_BaseColor.MI_Ancient_Temple_Stairs_tj1qafrfa_4K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.47:025][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Patterned_Marble_Tiles_vichajxv_4K_MetallicRoughness.MI_Patterned_Marble_Tiles_vichajxv_4K_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.47:025][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Patterned_Marble_Tiles_vichajxv_4K_BaseColor.MI_Patterned_Marble_Tiles_vichajxv_4K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.47:025][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Ancient_Temple_Stairs_tj1qafrfa_4K_Normal.MI_Ancient_Temple_Stairs_tj1qafrfa_4K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.47:025][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Ancient_Temple_Stairs_tj1qafrfa_4K_MetallicRoughness.MI_Ancient_Temple_Stairs_tj1qafrfa_4K_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.47:036][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Concrete_Floor_wirkdfrn_4K_Occlusion.MI_Concrete_Floor_wirkdfrn_4K_Occlusion (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 119.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.47:037][294]LogTexture: Display: Building textures: /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/Textures/MI_Modular_Wooden_Door_ugywdfqdw_4K_BaseColor.MI_Modular_Wooden_Door_ugywdfqdw_4K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-14.10.47:212][300]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 3781.859863 MiB, MemoryLimit = 1311.738281 MiB 
+[2026.11.16-14.10.47:212][300]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 3781.859863 MiB, MemoryLimit = 1311.863281 MiB 
+[2026.11.16-14.10.47:213][300]LogStaticMesh: Display: Building static mesh S_Mossy_Stone_Wall_ujyjbehqx_lod0_Var1 (Required Memory Estimate: 3781.859822 MB)...
+[2026.11.16-14.10.50:131][632]LogStaticMesh: Adjacency [0.29s], tris: 2630750, UVs 1
+[2026.11.16-14.10.53:996][ 63]LogStaticMesh: Clustering [3.87s]. Ratio: 1.016786
+[2026.11.16-14.10.54:021][ 66]LogStaticMesh: Leaves [0.02s]
+[2026.11.16-14.11.01:002][784]LogStaticMesh: Reduce [6.96s]
+[2026.11.16-14.11.01:905][892]LogStaticMesh: Fallback [0.90s], num tris: 30245
+[2026.11.16-14.11.02:125][918]LogStaticMesh: Fallback [0.22s], num tris: 7817
+[2026.11.16-14.11.02:463][957]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.02:463][957]LogStaticMesh:   Input: 42826 Clusters, 5392164 Triangles and 5105909 Vertices
+[2026.11.16-14.11.02:463][957]LogStaticMesh:   Output without splits: 42826 Clusters, 5392164 Triangles and 5116148 Vertices
+[2026.11.16-14.11.02:463][957]LogStaticMesh:   Output with splits: 43190 Clusters, 5392164 Triangles and 5116419 Vertices
+[2026.11.16-14.11.02:480][958]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 43190, Slow Path Clusters: 0, 1 Material: 43190, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.02:725][984]LogStaticMesh: WritePages:
+[2026.11.16-14.11.02:725][984]LogStaticMesh:   Root: GPU size: 30864 bytes. 1 Pages. 30864.000 bytes per page (94.189% utilization).
+[2026.11.16-14.11.02:725][984]LogStaticMesh:   Streaming: GPU size: 63773772 bytes. 490 Pages (474 with relative encoding). 130150.555 bytes per page (99.297% utilization).
+[2026.11.16-14.11.02:725][984]LogStaticMesh:   Page data disk size: 54056080 bytes. Fixup data size: 277760 bytes.
+[2026.11.16-14.11.02:725][984]LogStaticMesh:   Total GPU size: 63804636 bytes, Total disk size: 54333840 bytes.
+[2026.11.16-14.11.02:739][986]LogStaticMesh: Encode [0.61s]
+[2026.11.16-14.11.02:747][987]LogStaticMesh: NaniteBuild [12.91s]
+[2026.11.16-14.11.03:441][ 70]LogStaticMesh: Built static mesh [16.23s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/S_Mossy_Stone_Wall_ujyjbehqx_lod0_Var1.S_Mossy_Stone_Wall_ujyjbehqx_lod0_Var1
+[2026.11.16-14.11.06:168][393]LogStaticMesh: Display: Building static mesh S_Ancient_Temple_Stairs_tj1qafrfa_lod0 (Required Memory Estimate: 43.320745 MB)...
+[2026.11.16-14.11.06:168][393]LogStaticMesh: Display: Building static mesh S_Mossy_Stone_Wall_ujyjbehqx_lod0_Var126 (Required Memory Estimate: 968.161885 MB)...
+[2026.11.16-14.11.06:168][393]LogStaticMesh: Display: Building static mesh Cylinder6 (Required Memory Estimate: 1.200281 MB)...
+[2026.11.16-14.11.06:168][393]LogStaticMesh: Display: Building static mesh Floor_400x589 (Required Memory Estimate: 0.050141 MB)...
+[2026.11.16-14.11.06:168][393]LogStaticMesh: Display: Building static mesh Extrude (Required Memory Estimate: 0.046209 MB)...
+[2026.11.16-14.11.06:168][393]LogStaticMesh: Display: Building static mesh Cone5 (Required Memory Estimate: 1.200315 MB)...
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Adjacency [0.00s], tris: 24, UVs 1
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Reduce [0.00s]
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Fallback [0.00s], num tris: 24
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Fallback [0.00s], num tris: 24
+[2026.11.16-14.11.06:169][393]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Input: 1 Clusters, 24 Triangles and 48 Vertices
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Output without splits: 1 Clusters, 24 Triangles and 48 Vertices
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Output with splits: 1 Clusters, 24 Triangles and 48 Vertices
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Adjacency [0.00s], tris: 24, UVs 2
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Reduce [0.00s]
+[2026.11.16-14.11.06:169][393]LogStaticMesh: WritePages:
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Root: GPU size: 724 bytes. 1 Pages. 724.000 bytes per page (2.209% utilization).
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Page data disk size: 884 bytes. Fixup data size: 24 bytes.
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Fallback [0.00s], num tris: 24
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Total GPU size: 724 bytes, Total disk size: 908 bytes.
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Encode [0.00s]
+[2026.11.16-14.11.06:169][393]LogStaticMesh: NaniteBuild [0.00s]
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Fallback [0.00s], num tris: 24
+[2026.11.16-14.11.06:169][393]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Input: 1 Clusters, 24 Triangles and 48 Vertices
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Output without splits: 1 Clusters, 24 Triangles and 48 Vertices
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Output with splits: 1 Clusters, 24 Triangles and 48 Vertices
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Display: Building static mesh kulepenceresi41 (Required Memory Estimate: 474.268358 MB)...
+[2026.11.16-14.11.06:169][393]LogStaticMesh: WritePages:
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Root: GPU size: 880 bytes. 1 Pages. 880.000 bytes per page (2.686% utilization).
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Page data disk size: 1072 bytes. Fixup data size: 24 bytes.
+[2026.11.16-14.11.06:169][393]LogStaticMesh:   Total GPU size: 880 bytes, Total disk size: 1096 bytes.
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Display: Building static mesh Floor_400x401 (Required Memory Estimate: 0.029059 MB)...
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Encode [0.00s]
+[2026.11.16-14.11.06:169][393]LogStaticMesh: NaniteBuild [0.00s]
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 2
+[2026.11.16-14.11.06:169][393]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-14.11.06:170][393]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.06:170][393]LogStaticMesh: Reduce [0.00s]
+[2026.11.16-14.11.06:170][393]LogStaticMesh: Display: Building static mesh Floor_400x402 (Required Memory Estimate: 1.930191 MB)...
+[2026.11.16-14.11.06:170][393]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.11.16-14.11.06:170][393]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.11.16-14.11.06:170][393]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.06:170][393]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.11.16-14.11.06:170][393]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.11.16-14.11.06:170][393]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.11.16-14.11.06:170][393]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.06:170][393]LogStaticMesh: WritePages:
+[2026.11.16-14.11.06:170][393]LogStaticMesh:   Root: GPU size: 528 bytes. 1 Pages. 528.000 bytes per page (1.611% utilization).
+[2026.11.16-14.11.06:170][393]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-14.11.06:170][393]LogStaticMesh:   Page data disk size: 688 bytes. Fixup data size: 24 bytes.
+[2026.11.16-14.11.06:170][393]LogStaticMesh:   Total GPU size: 528 bytes, Total disk size: 712 bytes.
+[2026.11.16-14.11.06:170][393]LogStaticMesh: Encode [0.00s]
+[2026.11.16-14.11.06:170][393]LogStaticMesh: NaniteBuild [0.00s]
+[2026.11.16-14.11.06:170][393]LogStaticMesh: Display: Building static mesh Floor_400x453 (Required Memory Estimate: 0.810639 MB)...
+[2026.11.16-14.11.06:170][393]LogStaticMesh: Display: Building static mesh Floor_400x400 (Required Memory Estimate: 2.225932 MB)...
+[2026.11.16-14.11.06:171][393]LogStaticMesh: Built static mesh [0.00s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Extrude.Extrude
+[2026.11.16-14.11.06:171][393]LogStaticMesh: Built static mesh [0.00s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Floor_400x589.Floor_400x589
+[2026.11.16-14.11.06:171][393]LogStaticMesh: Adjacency [0.00s], tris: 800, UVs 1
+[2026.11.16-14.11.06:171][393]LogStaticMesh: Adjacency [0.00s], tris: 800, UVs 1
+[2026.11.16-14.11.06:171][393]LogStaticMesh: Adjacency [0.00s], tris: 456, UVs 2
+[2026.11.16-14.11.06:171][393]LogStaticMesh: Built static mesh [0.00s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Floor_400x401.Floor_400x401
+[2026.11.16-14.11.06:172][393]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-14.11.06:172][393]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.06:172][393]LogStaticMesh: Clustering [0.00s]. Ratio: 1.714286
+[2026.11.16-14.11.06:173][393]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.06:173][393]LogStaticMesh: Adjacency [0.00s], tris: 1092, UVs 2
+[2026.11.16-14.11.06:173][393]LogStaticMesh: Clustering [0.00s]. Ratio: 1.714286
+[2026.11.16-14.11.06:173][393]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.06:175][393]LogStaticMesh: Adjacency [0.00s], tris: 1260, UVs 2
+[2026.11.16-14.11.06:176][394]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-14.11.06:177][394]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.06:178][394]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-14.11.06:178][394]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.06:179][394]LogStaticMesh: Reduce [0.01s]
+[2026.11.16-14.11.06:181][394]LogStaticMesh: Fallback [0.00s], num tris: 454
+[2026.11.16-14.11.06:184][394]LogStaticMesh: Fallback [0.00s], num tris: 454
+[2026.11.16-14.11.06:186][395]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.06:186][395]LogStaticMesh:   Input: 7 Clusters, 834 Triangles and 1830 Vertices
+[2026.11.16-14.11.06:186][395]LogStaticMesh:   Output without splits: 7 Clusters, 834 Triangles and 1830 Vertices
+[2026.11.16-14.11.06:186][395]LogStaticMesh:   Output with splits: 10 Clusters, 834 Triangles and 1830 Vertices
+[2026.11.16-14.11.06:186][395]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 10, Slow Path Clusters: 0, 1 Material: 10, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.06:187][395]LogStaticMesh: WritePages:
+[2026.11.16-14.11.06:187][395]LogStaticMesh:   Root: GPU size: 31196 bytes. 1 Pages. 31196.000 bytes per page (95.203% utilization).
+[2026.11.16-14.11.06:187][395]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-14.11.06:187][395]LogStaticMesh:   Page data disk size: 24704 bytes. Fixup data size: 56 bytes.
+[2026.11.16-14.11.06:187][395]LogStaticMesh:   Total GPU size: 31196 bytes, Total disk size: 24760 bytes.
+[2026.11.16-14.11.06:187][395]LogStaticMesh: Encode [0.00s]
+[2026.11.16-14.11.06:187][395]LogStaticMesh: NaniteBuild [0.02s]
+[2026.11.16-14.11.06:200][397]LogStaticMesh: Reduce [0.02s]
+[2026.11.16-14.11.06:202][397]LogStaticMesh: Reduce [0.03s]
+[2026.11.16-14.11.06:203][397]LogStaticMesh: Built static mesh [0.03s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Floor_400x453.Floor_400x453
+[2026.11.16-14.11.06:207][397]LogStaticMesh: Fallback [0.01s], num tris: 1258
+[2026.11.16-14.11.06:209][398]LogStaticMesh: Fallback [0.01s], num tris: 1090
+[2026.11.16-14.11.06:212][398]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-114.563 Y=-2059.648 Z=1482.342, BoxExtent=(X=1898.716 Y=860.488 Z=482.898), SphereRadius=(2493.723389)) and MeshDescription Bounds (Origin=X=-114.561 Y=-2059.784 Z=1482.380, BoxExtent=(X=1752.099 Y=763.708 Z=389.932), SphereRadius=(1947.237635)) is significative for StaticMesh /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Floor_400x453.Floor_400x453
+[2026.11.16-14.11.06:213][398]LogStaticMesh: Fallback [0.01s], num tris: 1258
+[2026.11.16-14.11.06:216][398]LogStaticMesh: Fallback [0.01s], num tris: 1066
+[2026.11.16-14.11.06:217][399]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.06:217][399]LogStaticMesh:   Input: 21 Clusters, 2640 Triangles and 6152 Vertices
+[2026.11.16-14.11.06:217][399]LogStaticMesh:   Output without splits: 21 Clusters, 2640 Triangles and 6152 Vertices
+[2026.11.16-14.11.06:217][399]LogStaticMesh:   Output with splits: 34 Clusters, 2640 Triangles and 6158 Vertices
+[2026.11.16-14.11.06:217][399]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 34, Slow Path Clusters: 0, 1 Material: 34, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.06:219][399]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.06:219][399]LogStaticMesh:   Input: 20 Clusters, 2478 Triangles and 5696 Vertices
+[2026.11.16-14.11.06:219][399]LogStaticMesh:   Output without splits: 20 Clusters, 2478 Triangles and 5696 Vertices
+[2026.11.16-14.11.06:219][399]LogStaticMesh:   Output with splits: 31 Clusters, 2478 Triangles and 5704 Vertices
+[2026.11.16-14.11.06:219][399]LogStaticMesh: WritePages:
+[2026.11.16-14.11.06:219][399]LogStaticMesh:   Root: GPU size: 32204 bytes. 1 Pages. 32204.000 bytes per page (98.279% utilization).
+[2026.11.16-14.11.06:219][399]LogStaticMesh:   Streaming: GPU size: 72572 bytes. 1 Pages (1 with relative encoding). 72572.000 bytes per page (55.368% utilization).
+[2026.11.16-14.11.06:219][399]LogStaticMesh:   Page data disk size: 75320 bytes. Fixup data size: 248 bytes.
+[2026.11.16-14.11.06:219][399]LogStaticMesh:   Total GPU size: 104776 bytes, Total disk size: 75568 bytes.
+[2026.11.16-14.11.06:219][399]LogStaticMesh: Encode [0.01s]
+[2026.11.16-14.11.06:219][399]LogStaticMesh: NaniteBuild [0.04s]
+[2026.11.16-14.11.06:219][399]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 31, Slow Path Clusters: 0, 1 Material: 31, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.06:220][399]LogStaticMesh: WritePages:
+[2026.11.16-14.11.06:220][399]LogStaticMesh:   Root: GPU size: 31580 bytes. 1 Pages. 31580.000 bytes per page (96.375% utilization).
+[2026.11.16-14.11.06:220][399]LogStaticMesh:   Streaming: GPU size: 65772 bytes. 1 Pages (1 with relative encoding). 65772.000 bytes per page (50.180% utilization).
+[2026.11.16-14.11.06:220][399]LogStaticMesh:   Page data disk size: 65384 bytes. Fixup data size: 248 bytes.
+[2026.11.16-14.11.06:220][399]LogStaticMesh:   Total GPU size: 97352 bytes, Total disk size: 65632 bytes.
+[2026.11.16-14.11.06:220][399]LogStaticMesh: Encode [0.00s]
+[2026.11.16-14.11.06:220][399]LogStaticMesh: NaniteBuild [0.05s]
+[2026.11.16-14.11.06:226][400]LogStaticMesh: Reduce [0.05s]
+[2026.11.16-14.11.06:232][400]LogStaticMesh: Adjacency [0.00s], tris: 30393, UVs 1
+[2026.11.16-14.11.06:235][401]LogStaticMesh: Reduce [0.06s]
+[2026.11.16-14.11.06:242][401]LogStaticMesh: Fallback [0.02s], num tris: 256
+[2026.11.16-14.11.06:256][403]LogStaticMesh: Built static mesh [0.09s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Floor_400x400.Floor_400x400
+[2026.11.16-14.11.06:256][403]LogStaticMesh: Clustering [0.02s]. Ratio: 1.012605
+[2026.11.16-14.11.06:258][403]LogStaticMesh: Built static mesh [0.09s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Floor_400x402.Floor_400x402
+[2026.11.16-14.11.06:260][403]LogStaticMesh: Fallback [0.02s], num tris: 256
+[2026.11.16-14.11.06:260][403]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.06:260][403]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.06:260][403]LogStaticMesh:   Input: 19 Clusters, 1682 Triangles and 1949 Vertices
+[2026.11.16-14.11.06:260][403]LogStaticMesh:   Output without splits: 19 Clusters, 1682 Triangles and 1949 Vertices
+[2026.11.16-14.11.06:260][403]LogStaticMesh:   Output with splits: 19 Clusters, 1682 Triangles and 1949 Vertices
+[2026.11.16-14.11.06:260][403]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 19, Slow Path Clusters: 0, 1 Material: 19, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.06:262][404]LogStaticMesh: WritePages:
+[2026.11.16-14.11.06:262][404]LogStaticMesh:   Root: GPU size: 28220 bytes. 1 Pages. 28220.000 bytes per page (86.121% utilization).
+[2026.11.16-14.11.06:262][404]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-14.11.06:262][404]LogStaticMesh:   Page data disk size: 24060 bytes. Fixup data size: 72 bytes.
+[2026.11.16-14.11.06:262][404]LogStaticMesh:   Total GPU size: 28220 bytes, Total disk size: 24132 bytes.
+[2026.11.16-14.11.06:262][404]LogStaticMesh: Encode [0.00s]
+[2026.11.16-14.11.06:262][404]LogStaticMesh: NaniteBuild [0.09s]
+[2026.11.16-14.11.06:274][405]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-114.800 Y=-1696.836 Z=854.981, BoxExtent=(X=1852.339 Y=1201.700 Z=755.058), SphereRadius=(2823.177979)) and MeshDescription Bounds (Origin=X=-114.797 Y=-1659.410 Z=804.984, BoxExtent=(X=1752.335 Y=1164.274 Z=705.062), SphereRadius=(2161.191980)) is significative for StaticMesh /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Floor_400x402.Floor_400x402
+[2026.11.16-14.11.06:279][406]LogStaticMesh: Built static mesh [0.11s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Cylinder6.Cylinder6
+[2026.11.16-14.11.06:290][407]LogStaticMesh: Fallback [0.06s], num tris: 270
+[2026.11.16-14.11.06:311][409]LogStaticMesh: Fallback [0.02s], num tris: 256
+[2026.11.16-14.11.06:311][409]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.06:311][409]LogStaticMesh:   Input: 19 Clusters, 1682 Triangles and 1884 Vertices
+[2026.11.16-14.11.06:311][409]LogStaticMesh:   Output without splits: 19 Clusters, 1682 Triangles and 1889 Vertices
+[2026.11.16-14.11.06:311][409]LogStaticMesh:   Output with splits: 19 Clusters, 1682 Triangles and 1889 Vertices
+[2026.11.16-14.11.06:311][409]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 19, Slow Path Clusters: 0, 1 Material: 19, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.06:312][409]LogStaticMesh: WritePages:
+[2026.11.16-14.11.06:312][409]LogStaticMesh:   Root: GPU size: 27076 bytes. 1 Pages. 27076.000 bytes per page (82.629% utilization).
+[2026.11.16-14.11.06:312][409]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-14.11.06:312][409]LogStaticMesh:   Page data disk size: 23172 bytes. Fixup data size: 72 bytes.
+[2026.11.16-14.11.06:312][409]LogStaticMesh:   Total GPU size: 27076 bytes, Total disk size: 23244 bytes.
+[2026.11.16-14.11.06:312][409]LogStaticMesh: Encode [0.00s]
+[2026.11.16-14.11.06:312][409]LogStaticMesh: NaniteBuild [0.14s]
+[2026.11.16-14.11.06:341][413]LogStaticMesh: Built static mesh [0.17s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Cone5.Cone5
+[2026.11.16-14.11.06:535][436]LogStaticMesh: Reduce [0.27s]
+[2026.11.16-14.11.06:553][438]LogStaticMesh: Adjacency [0.02s], tris: 296320, UVs 2
+[2026.11.16-14.11.06:622][446]LogStaticMesh: Fallback [0.09s], num tris: 2995
+[2026.11.16-14.11.06:663][451]LogStaticMesh: Fallback [0.04s], num tris: 1070
+[2026.11.16-14.11.06:668][451]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.06:668][451]LogStaticMesh:   Input: 500 Clusters, 63015 Triangles and 45159 Vertices
+[2026.11.16-14.11.06:668][451]LogStaticMesh:   Output without splits: 500 Clusters, 63015 Triangles and 46224 Vertices
+[2026.11.16-14.11.06:668][451]LogStaticMesh:   Output with splits: 500 Clusters, 63015 Triangles and 46224 Vertices
+[2026.11.16-14.11.06:668][451]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 500, Slow Path Clusters: 0, 1 Material: 500, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.06:674][452]LogStaticMesh: WritePages:
+[2026.11.16-14.11.06:674][452]LogStaticMesh:   Root: GPU size: 31772 bytes. 1 Pages. 31772.000 bytes per page (96.960% utilization).
+[2026.11.16-14.11.06:674][452]LogStaticMesh:   Streaming: GPU size: 582256 bytes. 5 Pages (5 with relative encoding). 116451.203 bytes per page (88.845% utilization).
+[2026.11.16-14.11.06:674][452]LogStaticMesh:   Page data disk size: 521760 bytes. Fixup data size: 2400 bytes.
+[2026.11.16-14.11.06:674][452]LogStaticMesh:   Total GPU size: 614028 bytes, Total disk size: 524160 bytes.
+[2026.11.16-14.11.06:674][452]LogStaticMesh: Encode [0.01s]
+[2026.11.16-14.11.06:674][452]LogStaticMesh: NaniteBuild [0.44s]
+[2026.11.16-14.11.06:722][458]LogStaticMesh: Clustering [0.17s]. Ratio: 1.016415
+[2026.11.16-14.11.06:740][460]LogStaticMesh: Leaves [0.02s]
+[2026.11.16-14.11.06:751][461]LogStaticMesh: Built static mesh [0.58s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/S_Ancient_Temple_Stairs_tj1qafrfa_lod0.S_Ancient_Temple_Stairs_tj1qafrfa_lod0
+[2026.11.16-14.11.07:158][502]LogStaticMesh: Adjacency [0.10s], tris: 673472, UVs 1
+[2026.11.16-14.11.08:359][633]LogStaticMesh: Clustering [1.20s]. Ratio: 1.016914
+[2026.11.16-14.11.08:375][635]LogStaticMesh: Leaves [0.02s]
+[2026.11.16-14.11.08:439][642]LogStaticMesh: Reduce [1.70s]
+[2026.11.16-14.11.08:610][658]LogStaticMesh: Fallback [0.17s], num tris: 4363
+[2026.11.16-14.11.08:677][661]LogStaticMesh: Fallback [0.06s], num tris: 2471
+[2026.11.16-14.11.08:948][686]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.08:948][686]LogStaticMesh:   Input: 4842 Clusters, 609689 Triangles and 549253 Vertices
+[2026.11.16-14.11.08:948][686]LogStaticMesh:   Output without splits: 4842 Clusters, 609689 Triangles and 554916 Vertices
+[2026.11.16-14.11.08:948][686]LogStaticMesh:   Output with splits: 4925 Clusters, 609689 Triangles and 554978 Vertices
+[2026.11.16-14.11.08:968][688]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 4925, Slow Path Clusters: 0, 1 Material: 4787, 2 Materials: 138, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.09:159][706]LogStaticMesh: WritePages:
+[2026.11.16-14.11.09:159][706]LogStaticMesh:   Root: GPU size: 30276 bytes. 1 Pages. 30276.000 bytes per page (92.395% utilization).
+[2026.11.16-14.11.09:160][706]LogStaticMesh:   Streaming: GPU size: 9001196 bytes. 70 Pages (66 with relative encoding). 128588.516 bytes per page (98.105% utilization).
+[2026.11.16-14.11.09:160][706]LogStaticMesh:   Page data disk size: 7355796 bytes. Fixup data size: 33808 bytes.
+[2026.11.16-14.11.09:160][706]LogStaticMesh:   Total GPU size: 9031472 bytes, Total disk size: 7389604 bytes.
+[2026.11.16-14.11.09:162][707]LogStaticMesh: Encode [0.49s]
+[2026.11.16-14.11.09:164][707]LogStaticMesh: NaniteBuild [2.63s]
+[2026.11.16-14.11.09:259][718]LogStaticMesh: Built static mesh [3.09s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/kulepenceresi41.kulepenceresi41
+[2026.11.16-14.11.09:788][772]LogStaticMesh: Display: Building static mesh pencerehazır (Required Memory Estimate: 718.100781 MB)...
+[2026.11.16-14.11.09:788][772]LogStaticMesh: Display: Building static mesh S_Modular_Wooden_Door_ugywdfqdw_lod0_Var1 (Required Memory Estimate: 29.123597 MB)...
+[2026.11.16-14.11.09:788][772]LogStaticMesh: Display: Building static mesh S_Modular_Wooden_Door_ugywdfqdw_lod0_Var2 (Required Memory Estimate: 36.147423 MB)...
+[2026.11.16-14.11.09:842][778]LogStaticMesh: Adjacency [0.01s], tris: 20396, UVs 1
+[2026.11.16-14.11.09:855][778]LogStaticMesh: Adjacency [0.01s], tris: 25274, UVs 1
+[2026.11.16-14.11.09:886][782]LogStaticMesh: Clustering [0.04s]. Ratio: 1.012500
+[2026.11.16-14.11.09:889][782]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.09:915][785]LogStaticMesh: Clustering [0.06s]. Ratio: 1.015152
+[2026.11.16-14.11.09:918][785]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.10:446][844]LogStaticMesh: Reduce [0.56s]
+[2026.11.16-14.11.10:542][855]LogStaticMesh: Reduce [0.62s]
+[2026.11.16-14.11.10:552][856]LogStaticMesh: Adjacency [0.03s], tris: 448960, UVs 2
+[2026.11.16-14.11.10:598][862]LogStaticMesh: Fallback [0.15s], num tris: 4488
+[2026.11.16-14.11.10:650][868]LogStaticMesh: Fallback [0.11s], num tris: 5722
+[2026.11.16-14.11.10:685][872]LogStaticMesh: Fallback [0.09s], num tris: 1890
+[2026.11.16-14.11.10:688][873]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.10:688][873]LogStaticMesh:   Input: 333 Clusters, 41910 Triangles and 31432 Vertices
+[2026.11.16-14.11.10:688][873]LogStaticMesh:   Output without splits: 333 Clusters, 41910 Triangles and 32016 Vertices
+[2026.11.16-14.11.10:688][873]LogStaticMesh:   Output with splits: 333 Clusters, 41910 Triangles and 32016 Vertices
+[2026.11.16-14.11.10:689][873]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 333, Slow Path Clusters: 0, 1 Material: 333, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.10:694][873]LogStaticMesh: WritePages:
+[2026.11.16-14.11.10:694][873]LogStaticMesh:   Root: GPU size: 32508 bytes. 1 Pages. 32508.000 bytes per page (99.207% utilization).
+[2026.11.16-14.11.10:694][873]LogStaticMesh:   Streaming: GPU size: 378960 bytes. 3 Pages (3 with relative encoding). 126320.000 bytes per page (96.375% utilization).
+[2026.11.16-14.11.10:694][873]LogStaticMesh:   Page data disk size: 359488 bytes. Fixup data size: 1568 bytes.
+[2026.11.16-14.11.10:694][873]LogStaticMesh:   Total GPU size: 411468 bytes, Total disk size: 361056 bytes.
+[2026.11.16-14.11.10:694][873]LogStaticMesh: Encode [0.01s]
+[2026.11.16-14.11.10:694][873]LogStaticMesh: NaniteBuild [0.86s]
+[2026.11.16-14.11.10:733][878]LogStaticMesh: Fallback [0.08s], num tris: 2418
+[2026.11.16-14.11.10:738][879]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.10:738][879]LogStaticMesh:   Input: 410 Clusters, 51558 Triangles and 39596 Vertices
+[2026.11.16-14.11.10:738][879]LogStaticMesh:   Output without splits: 410 Clusters, 51558 Triangles and 40242 Vertices
+[2026.11.16-14.11.10:738][879]LogStaticMesh:   Output with splits: 410 Clusters, 51558 Triangles and 40242 Vertices
+[2026.11.16-14.11.10:739][879]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 410, Slow Path Clusters: 0, 1 Material: 410, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.10:743][879]LogStaticMesh: WritePages:
+[2026.11.16-14.11.10:743][879]LogStaticMesh:   Root: GPU size: 31388 bytes. 1 Pages. 31388.000 bytes per page (95.789% utilization).
+[2026.11.16-14.11.10:743][879]LogStaticMesh:   Streaming: GPU size: 493796 bytes. 4 Pages (4 with relative encoding). 123449.000 bytes per page (94.184% utilization).
+[2026.11.16-14.11.10:743][879]LogStaticMesh:   Page data disk size: 451140 bytes. Fixup data size: 2248 bytes.
+[2026.11.16-14.11.10:743][879]LogStaticMesh:   Total GPU size: 525184 bytes, Total disk size: 453388 bytes.
+[2026.11.16-14.11.10:743][879]LogStaticMesh: Encode [0.01s]
+[2026.11.16-14.11.10:743][879]LogStaticMesh: NaniteBuild [0.90s]
+[2026.11.16-14.11.10:758][881]LogStaticMesh: Reduce [2.38s]
+[2026.11.16-14.11.10:833][889]LogStaticMesh: Built static mesh [1.05s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/S_Modular_Wooden_Door_ugywdfqdw_lod0_Var1.S_Modular_Wooden_Door_ugywdfqdw_lod0_Var1
+[2026.11.16-14.11.10:849][890]LogStaticMesh: Clustering [0.30s]. Ratio: 1.017389
+[2026.11.16-14.11.10:863][892]LogStaticMesh: Leaves [0.01s]
+[2026.11.16-14.11.10:971][904]LogStaticMesh: Built static mesh [1.18s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/S_Modular_Wooden_Door_ugywdfqdw_lod0_Var2.S_Modular_Wooden_Door_ugywdfqdw_lod0_Var2
+[2026.11.16-14.11.11:504][960]LogStaticMesh: Fallback [0.75s], num tris: 14910
+[2026.11.16-14.11.11:756][988]LogStaticMesh: Fallback [0.25s], num tris: 3773
+[2026.11.16-14.11.11:923][  6]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.11:923][  6]LogStaticMesh:   Input: 10981 Clusters, 1382487 Triangles and 1300334 Vertices
+[2026.11.16-14.11.11:923][  6]LogStaticMesh:   Output without splits: 10981 Clusters, 1382487 Triangles and 1303633 Vertices
+[2026.11.16-14.11.11:923][  6]LogStaticMesh:   Output with splits: 11079 Clusters, 1382487 Triangles and 1303715 Vertices
+[2026.11.16-14.11.11:928][  6]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 11079, Slow Path Clusters: 0, 1 Material: 11079, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.11:993][ 13]LogStaticMesh: WritePages:
+[2026.11.16-14.11.11:994][ 13]LogStaticMesh:   Root: GPU size: 32204 bytes. 1 Pages. 32204.000 bytes per page (98.279% utilization).
+[2026.11.16-14.11.11:994][ 13]LogStaticMesh:   Streaming: GPU size: 16355564 bytes. 126 Pages (120 with relative encoding). 129806.062 bytes per page (99.034% utilization).
+[2026.11.16-14.11.11:994][ 13]LogStaticMesh:   Page data disk size: 13882800 bytes. Fixup data size: 71232 bytes.
+[2026.11.16-14.11.11:994][ 13]LogStaticMesh:   Total GPU size: 16387768 bytes, Total disk size: 13954032 bytes.
+[2026.11.16-14.11.12:000][ 14]LogStaticMesh: Encode [0.24s]
+[2026.11.16-14.11.12:005][ 15]LogStaticMesh: NaniteBuild [4.94s]
+[2026.11.16-14.11.12:390][ 59]LogStaticMesh: Built static mesh [6.22s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/S_Mossy_Stone_Wall_ujyjbehqx_lod0_Var126.S_Mossy_Stone_Wall_ujyjbehqx_lod0_Var126
+[2026.11.16-14.11.12:782][106]LogStaticMesh: Reduce [1.92s]
+[2026.11.16-14.11.13:084][142]LogStaticMesh: Fallback [0.30s], num tris: 8776
+[2026.11.16-14.11.13:105][144]LogStaticMesh: Display: Building static mesh Floor_400x631 (Required Memory Estimate: 1.465381 MB)...
+[2026.11.16-14.11.13:105][144]LogStaticMesh: Display: Building static mesh S_Modular_Iron_Fence_xcwofizdw_lod0_Var1 (Required Memory Estimate: 265.128231 MB)...
+[2026.11.16-14.11.13:105][144]LogStaticMesh: Display: Building static mesh Extrude2 (Required Memory Estimate: 0.199864 MB)...
+[2026.11.16-14.11.13:105][144]LogStaticMesh: Adjacency [0.00s], tris: 120, UVs 1
+[2026.11.16-14.11.13:105][144]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-14.11.13:105][144]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.13:106][144]LogStaticMesh: Reduce [0.00s]
+[2026.11.16-14.11.13:106][145]LogStaticMesh: Fallback [0.00s], num tris: 120
+[2026.11.16-14.11.13:106][145]LogStaticMesh: Fallback [0.00s], num tris: 120
+[2026.11.16-14.11.13:106][145]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.13:106][145]LogStaticMesh:   Input: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.11.16-14.11.13:106][145]LogStaticMesh:   Output without splits: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.11.16-14.11.13:106][145]LogStaticMesh:   Output with splits: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.11.16-14.11.13:106][145]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.13:106][145]LogStaticMesh: WritePages:
+[2026.11.16-14.11.13:106][145]LogStaticMesh:   Root: GPU size: 3164 bytes. 1 Pages. 3164.000 bytes per page (9.656% utilization).
+[2026.11.16-14.11.13:106][145]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-14.11.13:106][145]LogStaticMesh:   Page data disk size: 3216 bytes. Fixup data size: 24 bytes.
+[2026.11.16-14.11.13:106][145]LogStaticMesh:   Total GPU size: 3164 bytes, Total disk size: 3240 bytes.
+[2026.11.16-14.11.13:106][145]LogStaticMesh: Encode [0.00s]
+[2026.11.16-14.11.13:106][145]LogStaticMesh: NaniteBuild [0.00s]
+[2026.11.16-14.11.13:107][145]LogStaticMesh: Adjacency [0.00s], tris: 828, UVs 2
+[2026.11.16-14.11.13:109][145]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-14.11.13:110][145]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-14.11.13:112][145]LogStaticMesh: Built static mesh [0.01s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Extrude2.Extrude2
+[2026.11.16-14.11.13:127][147]LogStaticMesh: Reduce [0.02s]
+[2026.11.16-14.11.13:134][148]LogStaticMesh: Fallback [0.01s], num tris: 774
+[2026.11.16-14.11.13:143][149]LogStaticMesh: Fallback [0.01s], num tris: 618
+[2026.11.16-14.11.13:152][150]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.13:152][150]LogStaticMesh:   Input: 14 Clusters, 1710 Triangles and 3950 Vertices
+[2026.11.16-14.11.13:152][150]LogStaticMesh:   Output without splits: 14 Clusters, 1710 Triangles and 3950 Vertices
+[2026.11.16-14.11.13:152][150]LogStaticMesh:   Output with splits: 21 Clusters, 1710 Triangles and 3950 Vertices
+[2026.11.16-14.11.13:152][150]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 21, Slow Path Clusters: 0, 1 Material: 21, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.13:154][150]LogStaticMesh: WritePages:
+[2026.11.16-14.11.13:154][150]LogStaticMesh:   Root: GPU size: 31076 bytes. 1 Pages. 31076.000 bytes per page (94.836% utilization).
+[2026.11.16-14.11.13:154][150]LogStaticMesh:   Streaming: GPU size: 36256 bytes. 1 Pages (1 with relative encoding). 36256.000 bytes per page (27.661% utilization).
+[2026.11.16-14.11.13:154][150]LogStaticMesh:   Page data disk size: 50396 bytes. Fixup data size: 232 bytes.
+[2026.11.16-14.11.13:154][150]LogStaticMesh:   Total GPU size: 67332 bytes, Total disk size: 50628 bytes.
+[2026.11.16-14.11.13:154][150]LogStaticMesh: Encode [0.01s]
+[2026.11.16-14.11.13:154][150]LogStaticMesh: NaniteBuild [0.05s]
+[2026.11.16-14.11.13:185][154]LogStaticMesh: Built static mesh [0.08s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Floor_400x631.Floor_400x631
+[2026.11.16-14.11.13:444][174]LogStaticMesh: Fallback [0.36s], num tris: 3992
+[2026.11.16-14.11.13:787][211]LogStaticMesh: Adjacency [0.21s], tris: 180096, UVs 1
+[2026.11.16-14.11.14:030][236]LogStaticMesh: Clustering [0.24s]. Ratio: 1.018479
+[2026.11.16-14.11.14:061][237]LogStaticMesh: Leaves [0.03s]
+[2026.11.16-14.11.14:453][278]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.14:455][278]LogStaticMesh:   Input: 7309 Clusters, 919831 Triangles and 811411 Vertices
+[2026.11.16-14.11.14:455][278]LogStaticMesh:   Output without splits: 7309 Clusters, 919831 Triangles and 820119 Vertices
+[2026.11.16-14.11.14:455][278]LogStaticMesh:   Output with splits: 7372 Clusters, 919831 Triangles and 820157 Vertices
+[2026.11.16-14.11.14:486][282]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 7372, Slow Path Clusters: 0, 1 Material: 7241, 2 Materials: 131, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.14:804][316]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, Floor_400x400
+[2026.11.16-14.11.15:171][353]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 0 triangles, Floor_400x402
+[2026.11.16-14.11.15:212][357]LogStaticMesh: WritePages:
+[2026.11.16-14.11.15:212][357]LogStaticMesh:   Root: GPU size: 31656 bytes. 1 Pages. 31656.000 bytes per page (96.606% utilization).
+[2026.11.16-14.11.15:212][357]LogStaticMesh:   Streaming: GPU size: 13383156 bytes. 103 Pages (98 with relative encoding). 129933.555 bytes per page (99.131% utilization).
+[2026.11.16-14.11.15:212][357]LogStaticMesh:   Page data disk size: 10991280 bytes. Fixup data size: 49840 bytes.
+[2026.11.16-14.11.15:212][357]LogStaticMesh:   Total GPU size: 13414812 bytes, Total disk size: 11041120 bytes.
+[2026.11.16-14.11.15:217][358]LogStaticMesh: Encode [1.77s]
+[2026.11.16-14.11.15:220][358]LogStaticMesh: NaniteBuild [4.70s]
+[2026.11.16-14.11.15:262][362]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x49 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 51% occupied, 0 triangles, S_Mossy_Stone_Wall_ujyjbehqx_lod0_Var1
+[2026.11.16-14.11.15:544][382]LogStaticMesh: Built static mesh [5.76s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/pencerehazır.pencerehazır
+[2026.11.16-14.11.16:642][489]LogMeshUtilities: Finished distance field build in 1.2s - 63x14x84 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, S_Modular_Wooden_Door_ugywdfqdw_lod0_Var2
+[2026.11.16-14.11.16:680][492]LogMeshUtilities: Finished distance field build in 1.3s - 70x70x49 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 57% occupied, 0 triangles, S_Ancient_Temple_Stairs_tj1qafrfa_lod0
+[2026.11.16-14.11.17:200][547]LogMeshUtilities: Finished distance field build in 4.1s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 0 triangles, Floor_400x453
+[2026.11.16-14.11.17:311][557]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 35% occupied, 0 triangles, Extrude2
+[2026.11.16-14.11.17:381][565]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 16% occupied, 0 triangles, kulepenceresi41
+[2026.11.16-14.11.17:540][581]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 28% occupied, 0 triangles, Cylinder6
+[2026.11.16-14.11.17:565][583]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 0 triangles, Floor_400x631
+[2026.11.16-14.11.17:595][586]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 21% occupied, 0 triangles, Cone5
+[2026.11.16-14.11.17:718][598]LogMeshUtilities: Finished distance field build in 2.3s - 126x126x112 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 21% occupied, 0 triangles, S_Mossy_Stone_Wall_ujyjbehqx_lod0_Var126
+[2026.11.16-14.11.18:630][705]LogStaticMesh: Reduce [4.57s]
+[2026.11.16-14.11.18:931][741]LogStaticMesh: Fallback [0.30s], num tris: 8594
+[2026.11.16-14.11.18:955][744]LogStaticMesh: Fallback [0.02s], num tris: 608
+[2026.11.16-14.11.18:979][746]LogStaticMesh: ConstrainClusters:
+[2026.11.16-14.11.18:980][746]LogStaticMesh:   Input: 2946 Clusters, 370602 Triangles and 429360 Vertices
+[2026.11.16-14.11.18:980][746]LogStaticMesh:   Output without splits: 2946 Clusters, 370602 Triangles and 429637 Vertices
+[2026.11.16-14.11.18:980][746]LogStaticMesh:   Output with splits: 2951 Clusters, 370602 Triangles and 429645 Vertices
+[2026.11.16-14.11.18:981][746]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 2951, Slow Path Clusters: 0, 1 Material: 2951, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-14.11.18:997][748]LogStaticMesh: WritePages:
+[2026.11.16-14.11.18:997][749]LogStaticMesh:   Root: GPU size: 31128 bytes. 1 Pages. 31128.000 bytes per page (94.995% utilization).
+[2026.11.16-14.11.18:997][749]LogStaticMesh:   Streaming: GPU size: 4832340 bytes. 38 Pages (37 with relative encoding). 127166.844 bytes per page (97.021% utilization).
+[2026.11.16-14.11.18:997][749]LogStaticMesh:   Page data disk size: 4418112 bytes. Fixup data size: 19352 bytes.
+[2026.11.16-14.11.18:997][749]LogStaticMesh:   Total GPU size: 4863468 bytes, Total disk size: 4437464 bytes.
+[2026.11.16-14.11.18:999][749]LogStaticMesh: Encode [0.04s]
+[2026.11.16-14.11.18:999][749]LogStaticMesh: NaniteBuild [5.42s]
+[2026.11.16-14.11.19:044][753]LogStaticMesh: Built static mesh [5.94s] /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/S_Modular_Iron_Fence_xcwofizdw_lod0_Var1.S_Modular_Iron_Fence_xcwofizdw_lod0_Var1
+[2026.11.16-14.11.19:255][779]LogStaticMesh: Warning: S_Modular_Iron_Fence_xcwofizdw_lod0_Var1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.11.16-14.11.19:255][779]LogStaticMesh: Warning: S_Modular_Iron_Fence_xcwofizdw_lod0_Var1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.11.16-14.11.19:679][779]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 3781.859863 MiB, MemoryLimit = 1822.996094 MiB 
+[2026.11.16-14.11.19:679][779]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 3781.859863 MiB, MemoryLimit = 1823.000 MiB 
+[2026.11.16-14.11.19:717][780]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dgraing1/Do...astle-Mansion 4K GLB/Mega Detailed Castle-Mansion 4K.glb]
+[2026.11.16-14.11.19:997][780]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.11.16-14.11.19:997][780]LogInterchangeEngine: [Success] Import Done
+[2026.11.16-14.11.20:203][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 349.572601
+[2026.11.16-14.11.20:304][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-14.11.20:305][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 349.667725, Update Interval: 337.512146
+[2026.11.16-14.11.22:261][ 45]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-114.800 Y=-1696.836 Z=854.981, BoxExtent=(X=1852.339 Y=1201.700 Z=755.058), SphereRadius=(2823.177979)) and MeshDescription Bounds (Origin=X=-114.797 Y=-1659.410 Z=804.984, BoxExtent=(X=1752.335 Y=1164.274 Z=705.062), SphereRadius=(2161.191980)) is significative for StaticMesh /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Floor_400x402.Floor_400x402
+[2026.11.16-14.11.22:261][ 45]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-114.563 Y=-2059.648 Z=1482.342, BoxExtent=(X=1898.716 Y=860.488 Z=482.898), SphereRadius=(2493.723389)) and MeshDescription Bounds (Origin=X=-114.561 Y=-2059.784 Z=1482.380, BoxExtent=(X=1752.099 Y=763.708 Z=389.932), SphereRadius=(1947.237635)) is significative for StaticMesh /Game/Custom/Mega_Detailed_Castle-Mansion_4K_GLB/Mega_Detailed_Castle-Mansion_4K/StaticMeshes/Floor_400x453.Floor_400x453
