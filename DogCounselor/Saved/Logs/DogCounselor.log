@@ -1396,3 +1396,208 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.23-15.08.58:507][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.11.23-15.08.58:507][486]AssetCheck: /Game/Levels/DogCountselor Validating asset
 [2026.11.23-15.09.01:230][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.11.23-15.09.18:037][144]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.23-15.09.18:043][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.23-15.09.18:079][144]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DogCountselor
+[2026.11.23-15.09.18:086][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007165s)
+[2026.11.23-15.09.18:086][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DogCountselor.DogCountselor to /Game/Levels/UEDPIE_0_DogCountselor.DogCountselor (0.007211s)
+[2026.11.23-15.09.18:097][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.11.23-15.09.18:098][144]LogChaosDD: Creating Chaos Debug Draw Scene for world DogCountselor
+[2026.11.23-15.09.18:099][144]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2026.11.23-15.09.18:100][144]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.11.23-15.09.18:100][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.23-15.09.18:100][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.23-15.09.18:100][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.23-15.09.18:100][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.23-15.09.18:100][144]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.23-15.09.18:100][144]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.23-15.09.18:100][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.23-15.09.18:100][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.23-15.09.18:100][144]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.23-15.09.18:100][144]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.23-15.09.18:100][144]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.23-15.09.18:102][144]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.23-15.09.18:155][144]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.11.23-15.09.18:156][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.23-15.09.18:156][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.23-15.09.18:156][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.23-15.09.18:156][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.11.23-15.09.18:156][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.11.23-15.09.18:158][144]LogInit: FAudioDevice initialized with ID 3.
+[2026.11.23-15.09.18:158][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.11.23-15.09.18:158][144]LogAudio: Display: Audio Device (ID: 3) registered with world 'DogCountselor'.
+[2026.11.23-15.09.18:158][144]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.11.23-15.09.18:158][144]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.11.23-15.09.18:160][144]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.23-15.09.18:169][144]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_DogGarden.DogGarden:PersistentLevel.BP_DoorFrame_C_1.NODE_AddStaticMeshComponent-1_1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.300 Z=1.000
+[2026.11.23-15.09.18:177][144]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DogCountselor.DogCountselor up for play (max tick rate 0) at 2026.11.23-10.09.18
+[2026.11.23-15.09.18:178][144]LogWorld: Bringing up level for play took: 0.002156
+[2026.11.23-15.09.18:179][144]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.11.23-15.09.18:182][144]PIE: Server logged in
+[2026.11.23-15.09.18:184][144]PIE: Play in editor total start time 0.141 seconds.
+[2026.11.23-15.09.18:227][145]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.23-15.09.42:129][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.23-15.09.42:129][999]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DogCountselor
+[2026.11.23-15.09.42:129][999]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.11.23-15.09.42:130][999]LogWorld: UWorld::CleanupWorld for DogCountselor, bSessionEnded=true, bCleanupResources=true
+[2026.11.23-15.09.42:131][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.09.42:134][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.23-15.09.42:135][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.09.42:148][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.23-15.09.42:148][999]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.11.23-15.09.42:148][999]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.11.23-15.09.42:149][999]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.11.23-15.09.42:156][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.23-15.09.42:208][  0]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.11.23-15.09.42:220][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.11.23-15.10.10:095][225]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.23-15.10.10:102][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.23-15.10.10:129][225]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DogCountselor
+[2026.11.23-15.10.10:136][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007478s)
+[2026.11.23-15.10.10:136][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DogCountselor.DogCountselor to /Game/Levels/UEDPIE_0_DogCountselor.DogCountselor (0.007522s)
+[2026.11.23-15.10.10:150][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.11.23-15.10.10:150][225]LogChaosDD: Creating Chaos Debug Draw Scene for world DogCountselor
+[2026.11.23-15.10.10:152][225]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2026.11.23-15.10.10:152][225]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.11.23-15.10.10:152][225]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.23-15.10.10:152][225]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.23-15.10.10:152][225]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.23-15.10.10:152][225]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.23-15.10.10:152][225]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.23-15.10.10:152][225]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.23-15.10.10:152][225]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.23-15.10.10:152][225]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.23-15.10.10:152][225]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.23-15.10.10:152][225]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.23-15.10.10:152][225]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.23-15.10.10:154][225]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.23-15.10.10:211][225]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.11.23-15.10.10:211][225]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.23-15.10.10:211][225]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.23-15.10.10:211][225]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.23-15.10.10:212][225]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.11.23-15.10.10:212][225]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.11.23-15.10.10:214][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.11.23-15.10.10:214][225]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.11.23-15.10.10:214][225]LogInit: FAudioDevice initialized with ID 4.
+[2026.11.23-15.10.10:214][225]LogAudio: Display: Audio Device (ID: 4) registered with world 'DogCountselor'.
+[2026.11.23-15.10.10:214][225]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.11.23-15.10.10:218][225]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.23-15.10.10:226][225]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_DogGarden.DogGarden:PersistentLevel.BP_DoorFrame_C_1.NODE_AddStaticMeshComponent-1_1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.300 Z=1.000
+[2026.11.23-15.10.10:236][225]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DogCountselor.DogCountselor up for play (max tick rate 0) at 2026.11.23-10.10.10
+[2026.11.23-15.10.10:236][225]LogWorld: Bringing up level for play took: 0.002319
+[2026.11.23-15.10.10:238][225]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.11.23-15.10.10:241][225]PIE: Server logged in
+[2026.11.23-15.10.10:242][225]PIE: Play in editor total start time 0.141 seconds.
+[2026.11.23-15.10.10:283][226]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.23-15.10.19:130][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.11.23-15.10.20:662][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.11.23-15.10.30:855][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.11.23-15.10.33:940][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.23-15.10.33:940][ 42]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DogCountselor
+[2026.11.23-15.10.33:940][ 42]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.11.23-15.10.33:940][ 42]LogWorld: UWorld::CleanupWorld for DogCountselor, bSessionEnded=true, bCleanupResources=true
+[2026.11.23-15.10.33:941][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.10.33:943][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.23-15.10.33:944][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.10.33:955][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.23-15.10.33:955][ 42]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.11.23-15.10.33:955][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.11.23-15.10.33:956][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.11.23-15.10.33:963][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.23-15.10.33:965][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.11.23-15.10.34:019][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.11.23-15.10.34:051][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.11.23-15.11.56:004][795]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 347.594421
+[2026.11.23-15.11.56:094][805]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.23-15.11.56:094][805]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 347.680481, Update Interval: 330.665619
+[2026.11.23-15.14.00:989][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.11.23-15.14.02:306][724]LogSlate: Window 'Save Content' being destroyed
+[2026.11.23-15.14.02:325][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.23-15.14.02:418][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.11.23-15.14.02:446][724]LogSavePackage: Moving output files for package: /Game/Levels/DogCountselor
+[2026.11.23-15.14.02:447][724]LogSavePackage: Moving '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/DogCountselorE3F3CECC4068D6ECFBA5C9AD9C353DAB.tmp' to '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Levels/DogCountselor.umap'
+[2026.11.23-15.14.02:458][724]LogFileHelpers: Saving map 'DogCountselor' took 0.082
+[2026.11.23-15.14.02:464][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.063 ms (total: 472.358 ms)
+[2026.11.23-15.14.02:506][724]LogStall: Shutdown...
+[2026.11.23-15.14.02:506][724]LogStall: Shutdown complete.
+[2026.11.23-15.14.02:543][724]LogSlate: Window 'DogCounselor - Unreal Editor' being destroyed
+[2026.11.23-15.14.02:588][724]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.23-15.14.02:588][724]LogContentValidation: Enabled validators:
+[2026.11.23-15.14.02:588][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.23-15.14.02:588][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.23-15.14.02:588][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.23-15.14.02:588][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.23-15.14.02:588][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.23-15.14.02:588][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.23-15.14.02:588][724]AssetCheck: /Game/Levels/DogCountselor Validating asset
+[2026.11.23-15.14.02:589][724]Cmd: QUIT_EDITOR
+[2026.11.23-15.14.02:589][725]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.11.23-15.14.02:657][725]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.11.23-15.14.02:657][725]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.11.23-15.14.02:657][725]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.11.23-15.14.02:659][725]LogWorld: UWorld::CleanupWorld for DogCountselor, bSessionEnded=true, bCleanupResources=true
+[2026.11.23-15.14.02:659][725]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.11.23-15.14.02:659][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.14.02:659][725]LogWorld: UWorld::CleanupWorld for Library, bSessionEnded=true, bCleanupResources=true
+[2026.11.23-15.14.02:659][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.14.02:659][725]LogWorld: UWorld::CleanupWorld for DogGarden, bSessionEnded=true, bCleanupResources=true
+[2026.11.23-15.14.02:659][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.14.02:659][725]LogWorld: UWorld::CleanupWorld for DogHallway, bSessionEnded=true, bCleanupResources=true
+[2026.11.23-15.14.02:659][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.14.02:668][725]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.11.23-15.14.02:669][725]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.11.23-15.14.02:669][725]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.11.23-15.14.02:671][725]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.23-15.14.02:671][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.14.02:671][725]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.11.23-15.14.02:671][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.14.02:671][725]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.11.23-15.14.02:671][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.14.02:671][725]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.11.23-15.14.02:671][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.23-15.14.02:672][725]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.11.23-15.14.02:672][725]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.11.23-15.14.02:679][725]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.11.23-15.14.03:416][725]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.11.23-15.14.03:416][725]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.11.23-15.14.03:416][725]LogAudio: Display: Audio Device unregistered from world 'DogCountselor'.
+[2026.11.23-15.14.03:416][725]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.11.23-15.14.03:416][725]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.11.23-15.14.03:418][725]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.11.23-15.14.03:425][725]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.11.23-15.14.03:425][725]LogAudio: Display: Audio Device Manager Shutdown
+[2026.11.23-15.14.03:426][725]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.11.23-15.14.03:431][725]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.11.23-15.14.03:436][725]LogExit: Preparing to exit.
+[2026.11.23-15.14.03:462][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.11.23-15.14.03:848][725]LogEditorDataStorage: Deinitializing
+[2026.11.23-15.14.03:911][725]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.11.23-15.14.03:923][725]LogExit: Editor shut down
+[2026.11.23-15.14.03:926][725]LogExit: Transaction tracking system shut down
+[2026.11.23-15.14.03:934][725]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2026.11.23-15.14.03:981][725]LogExit: Object subsystem successfully closed.
+[2026.11.23-15.14.04:038][725]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.11.23-15.14.04:083][725]LogMemoryProfiler: Shutdown
+[2026.11.23-15.14.04:083][725]LogNetworkingProfiler: Shutdown
+[2026.11.23-15.14.04:083][725]LoadingProfiler: Shutdown
+[2026.11.23-15.14.04:083][725]LogTimingProfiler: Shutdown
+[2026.11.23-15.14.04:084][725]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.11.23-15.14.04:084][725]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.11.23-15.14.04:338][725]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.11.23-15.14.04:366][725]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.11.23-15.14.04:366][725]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B11B82160-4F0F-3BDD-9C34-29B0F42F51D6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d69fae0b465fee114f03ef9aea718efb%7C9a3881010218431190b404c1cc324083%7Cf810f0ae-af30-4704-ae25-df0694bcbb71&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.11.23-15.14.04:900][725]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.11.23-15.14.04:900][725]LogNFORDenoise: NFORDenoise function shutting down
+[2026.11.23-15.14.04:900][725]RenderDocPlugin: plugin has been unloaded.
+[2026.11.23-15.14.04:900][725]LogXGEController: Cleaning working directory: C:/Users/dgraing1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.11.23-15.14.04:902][725]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.11.23-15.14.04:902][725]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.11.23-15.14.04:902][725]LogPakFile: Destroying PakPlatformFile
+[2026.11.23-15.14.05:074][725]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.11.23-15.14.05:112][725]LogExit: Exiting.
+[2026.11.23-15.14.05:128][725]Log file closed, 11/23/26 10:14:05
