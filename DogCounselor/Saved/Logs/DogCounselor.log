@@ -1375,3 +1375,24 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.23-15.07.47:040][ 60]AssetCheck: /Game/Levels/DogCountselor Validating asset
 [2026.11.23-15.07.53:918][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
 [2026.11.23-15.08.02:460][488]LogDerivedDataCache: C:/Users/dgraing1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.23-15.08.39:883][632]Cmd: TRANSACTION UNDO
+[2026.11.23-15.08.39:883][632]LogEditorTransaction: Undo Place Objects
+[2026.11.23-15.08.39:884][632]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/DogCountselor.DogCountselor:PersistentLevel.ModelComponent_384' invalid (152 verts, 0 indices).
+[2026.11.23-15.08.54:978][191]Cmd: TRANSACTION UNDO
+[2026.11.23-15.08.54:978][191]LogEditorTransaction: Undo Place Objects
+[2026.11.23-15.08.58:321][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.23-15.08.58:407][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.23-15.08.58:437][486]LogSavePackage: Moving output files for package: /Game/Levels/DogCountselor
+[2026.11.23-15.08.58:437][486]LogSavePackage: Moving '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Saved/DogCountselor822C73464F794FE0C1D098BE30970CFF.tmp' to '../../../../../../Users/dgraing1/Documents/GitHub/GLD.TeamDoggo/DogCounselor/Content/Levels/DogCountselor.umap'
+[2026.11.23-15.08.58:451][486]LogFileHelpers: Saving map 'DogCountselor' took 0.074
+[2026.11.23-15.08.58:458][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.521 ms (total: 333.294 ms)
+[2026.11.23-15.08.58:507][486]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.23-15.08.58:507][486]LogContentValidation: Enabled validators:
+[2026.11.23-15.08.58:507][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.23-15.08.58:507][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.23-15.08.58:507][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.23-15.08.58:507][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.23-15.08.58:507][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.23-15.08.58:507][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.23-15.08.58:507][486]AssetCheck: /Game/Levels/DogCountselor Validating asset
+[2026.11.23-15.09.01:230][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
